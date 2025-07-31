@@ -1,0 +1,7 @@
+pandas
+openpyxl
+matplotlib
+seaborn
+pdfplumber
+tabula-py
+jupyterlab
