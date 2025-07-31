@@ -1,0 +1,1725 @@
+codigo,nome_do_curso,acertos_do_primeiro,acertos_do_ultimo,total_de_vagas,ano
+301.0,administracao  diurno,81.67,60.02,90.0,2002
+316.0,administracao  noturno,77.43,58.66,90.0,2002
+501.0,agronomia,79.61,50.17,90.0,2002
+207.0,arquitetura e urbanismo,81.87,66.17,80.0,2002
+324.0,biblioteconomia  noturno,81.73,31.21,80.0,2002
+108.0,ciencias biologicas,82.04,68.14,60.0,2002
+302.0,ciencias contabeis  diurno,69.97,45.34,80.0,2002
+317.0,ciencias contabeis  noturno,76.65,47.86,80.0,2002
+208.0,ciencias da computacao,88.26,66.68,100.0,2002
+304.0,ciencias economicas  diurno,78.93,49.1,90.0,2002
+318.0,ciencias economicas  noturno,73.4,48.63,90.0,2002
+310.0,ciencias sociais  diurno,72.45,52.79,40.0,2002
+320.0,ciencias sociais  noturno,75.78,48.5,40.0,2002
+420.0,comunicacao e expressao visual,81.87,65.52,60.0,2002
+303.0,direito  diurno,93.51,75.16,80.0,2002
+5.0,direito  noturno,89.17,72.24,80.0,2002
+404.0,educacao fisica,79.87,50.9,100.0,2002
+101.0,enfermagem,71.86,54.68,70.0,2002
+220.0,eng de controle e automacao industrial,96.04,77.09,60.0,2002
+201.0,engenharia civil,81.05,62.04,100.0,2002
+215.0,engenharia de alimentos,83.26,65.09,45.0,2002
+234.0,engenharia de aquicultura,77.26,54.65,60.0,2002
+233.0,engenharia de materiais,88.01,65.1,60.0,2002
+212.0,engenharia de producao civil,82.37,58.92,35.0,2002
+213.0,engenharia de producao eletrica,82.73,68.75,35.0,2002
+214.0,engenharia de producao mecanica,84.79,71.29,35.0,2002
+202.0,engenharia eletrica,89.42,71.13,100.0,2002
+203.0,engenharia mecanica,87.11,71.45,100.0,2002
+216.0,engenharia quimica,80.75,66.34,45.0,2002
+211.0,engenharia sanitaria e ambiental,78.21,62.05,80.0,2002
+106.0,farmacia  analises clinicas,81.39,67.15,80.0,2002
+107.0,farmacia  tecnologia de alimentos,76.7,62.38,40.0,2002
+329.0,filosofia  noturno,78.24,44.19,35.0,2002
+328.0,filosofia  vespertinonoturno,74.69,33.69,35.0,2002
+2.0,fisica  bacharelado  diurno,79.57,50.82,45.0,2002
+225.0,fisica  licenciatura  noturno,79.99,38.46,65.0,2002
+331.0,geografia  diurno,65.32,48.23,40.0,2002
+332.0,geografia  noturno,71.41,45.77,40.0,2002
+326.0,historia  diurno,76.03,47.75,45.0,2002
+327.0,historia  noturno,75.37,48.38,45.0,2002
+415.0,jornalismo,90.51,73.9,52.0,2002
+421.0,letras  lingua alema  diurno,59.95,31.94,30.0,2002
+422.0,letras  lingua alema  noturno,53.81,35.78,30.0,2002
+423.0,letras  lingua espanhola,69.22,40.5,30.0,2002
+424.0,letras  lingua francesa,67.95,42.51,40.0,2002
+425.0,letras  lingua inglesa,74.35,54.15,30.0,2002
+427.0,letras  lingua italiana,58.44,34.29,30.0,2002
+428.0,letras  lingua portuguesa,78.9,44.91,40.0,2002
+426.0,letras  lingua portuguesanoturno,66.46,38.55,40.0,2002
+419.0,letras  secretariado executivo bilingue,71.38,53.13,30.0,2002
+223.0,matematica  licenciatura  diurno,74.38,32.06,65.0,2002
+224.0,matematica  licenciatura  noturno,63.47,37.16,40.0,2002
+222.0,matematica e computacao cientifica,74.52,42.49,30.0,2002
+103.0,medicina,94.72,84.53,100.0,2002
+9.0,nutricao,83.73,66.5,40.0,2002
+104.0,odontologia,87.91,70.1,90.0,2002
+308.0,pedagogia,64.21,40.27,100.0,2002
+319.0,psicologia,84.47,63.85,80.0,2002
+217.0,quimica,85.32,49.37,80.0,2002
+309.0,servico social  diurno,59.26,40.21,80.0,2002
+339.0,servico social  noturno,67.37,40.98,60.0,2002
+238.0,sistemas de informacao  noturno,81.21,64.08,100.0,2002
+301.0,administracao  diurno,87.91,60.23,90.0,2003
+316.0,administracao  noturno,76.93,57.83,90.0,2003
+501.0,agronomia,79.35,51.94,90.0,2003
+207.0,arquitetura e urbanismo,87.9,68.86,80.0,2003
+324.0,biblioteconomia  noturno,54.17,34.25,80.0,2003
+108.0,ciencias biologicas,86.15,69.24,60.0,2003
+302.0,ciencias contabeis  diurno,71.18,49.11,80.0,2003
+317.0,ciencias contabeis  noturno,65.6,47.95,80.0,2003
+208.0,ciencias da computacao,83.36,65.05,100.0,2003
+304.0,ciencias economicas  diurno,87.51,51.5,90.0,2003
+318.0,ciencias economicas  noturno,82.7,50.82,90.0,2003
+310.0,ciencias sociais  diurno,85.63,50.23,40.0,2003
+320.0,ciencias sociais  noturno,68.34,47.31,40.0,2003
+420.0,comunicacao e expressao visual,92.14,64.38,60.0,2003
+303.0,direito  diurno,90.07,74.05,80.0,2003
+5.0,direito  noturno,92.28,70.61,80.0,2003
+404.0,educacao fisica,76.01,51.31,120.0,2003
+101.0,enfermagem,76.85,53.37,70.0,2003
+220.0,eng de controle e automacao industrial,88.82,77.03,60.0,2003
+201.0,engenharia civil,77.45,61.52,100.0,2003
+215.0,engenharia de alimentos,86.03,64.07,45.0,2003
+234.0,engenharia de aquicultura,78.91,54.05,60.0,2003
+233.0,engenharia de materiais,79.4,59.52,60.0,2003
+212.0,engenharia de producao civil,75.76,60.57,35.0,2003
+213.0,engenharia de producao eletrica,78.92,65.96,35.0,2003
+214.0,engenharia de producao mecanica,82.52,68.93,35.0,2003
+202.0,engenharia eletrica,89.52,69.5,100.0,2003
+203.0,engenharia mecanica,93.73,70.75,100.0,2003
+216.0,engenharia quimica,89.07,66.97,45.0,2003
+211.0,engenharia sanitaria e ambiental,86.29,64.04,80.0,2003
+106.0,farmacia  analises clinicas,82.33,64.64,80.0,2003
+107.0,farmacia  tecnologia de alimentos,77.13,62.05,40.0,2003
+329.0,filosofia  noturno,72.14,41.63,35.0,2003
+328.0,filosofia  vespertinonoturno,83.6,41.57,35.0,2003
+2.0,fisica  bacharelado  diurno,83.04,52.26,45.0,2003
+225.0,fisica  licenciatura  noturno,64.39,43.51,65.0,2003
+331.0,geografia  diurno,75.65,51.44,40.0,2003
+332.0,geografia  noturno,69.05,44.57,40.0,2003
+326.0,historia  diurno,71.34,51.63,45.0,2003
+327.0,historia  noturno,68.42,47.6,45.0,2003
+415.0,jornalismo,89.58,72.92,60.0,2003
+421.0,letras  lingua alema  diurno,58.14,38.22,60.0,2003
+423.0,letras  lingua espanhola,64.23,45.83,30.0,2003
+424.0,letras  lingua francesa,69.45,41.32,40.0,2003
+425.0,letras  lingua inglesa,73.42,51.07,30.0,2003
+427.0,letras  lingua italiana,64.56,45.0,30.0,2003
+428.0,letras  lingua portuguesa,81.11,44.91,40.0,2003
+426.0,letras  lingua portuguesa  noturno,64.47,45.45,40.0,2003
+419.0,letras  secretariado executivo ingles,72.25,49.39,40.0,2003
+223.0,matematica  licenciatura  diurno,71.7,42.58,65.0,2003
+224.0,matematica  licenciatura  noturno,72.83,41.29,40.0,2003
+222.0,matematica e computacao cientifica,70.2,45.54,30.0,2003
+103.0,medicina,97.89,85.6,100.0,2003
+9.0,nutricao,78.55,65.32,40.0,2003
+104.0,odontologia,90.08,69.24,90.0,2003
+308.0,pedagogia,60.65,41.73,100.0,2003
+319.0,psicologia,85.53,63.49,80.0,2003
+217.0,quimica,84.7,48.8,80.0,2003
+309.0,servico social  diurno,73.25,41.68,80.0,2003
+339.0,servico social  noturno,66.32,42.09,60.0,2003
+238.0,sistemas de informacao  noturno,80.71,62.04,100.0,2003
+301.0,administracao  diurno,65.03,51.84,90.0,2004
+316.0,administracao  noturno,75.75,49.3,90.0,2004
+501.0,agronomia,63.55,44.88,90.0,2004
+207.0,arquitetura e urbanismo,71.65,56.58,80.0,2004
+324.0,biblioteconomia  noturno,60.54,33.88,80.0,2004
+108.0,ciencias biologicas,69.13,58.83,60.0,2004
+302.0,ciencias contabeis  diurno,63.1,41.03,80.0,2004
+317.0,ciencias contabeis  noturno,61.86,43.21,80.0,2004
+208.0,ciencias da computacao,70.55,53.34,100.0,2004
+304.0,ciencias economicas  diurno,66.16,44.82,90.0,2004
+318.0,ciencias economicas  noturno,63.68,42.43,90.0,2004
+310.0,ciencias sociais  diurno,64.18,44.58,40.0,2004
+320.0,ciencias sociais  noturno,65.58,43.92,40.0,2004
+420.0,comunicacao e expressao visual,68.89,54.39,60.0,2004
+303.0,direito  diurno,76.03,61.31,80.0,2004
+5.0,direito  noturno,76.31,59.26,80.0,2004
+404.0,educacao fisica,59.73,45.84,120.0,2004
+101.0,enfermagem,61.24,47.24,70.0,2004
+220.0,eng de controle e automacao industrial,81.47,65.97,60.0,2004
+201.0,engenharia civil,67.97,54.76,100.0,2004
+215.0,engenharia de alimentos,65.98,55.31,45.0,2004
+234.0,engenharia de aquicultura,65.84,49.34,60.0,2004
+233.0,engenharia de materiais,69.57,52.95,60.0,2004
+212.0,engenharia de producao civil,68.91,54.65,35.0,2004
+213.0,engenharia de producao eletrica,69.38,57.19,35.0,2004
+214.0,engenharia de producao mecanica,72.91,61.08,35.0,2004
+202.0,engenharia eletrica,79.01,59.45,100.0,2004
+203.0,engenharia mecanica,73.52,61.59,100.0,2004
+216.0,engenharia quimica,68.46,57.32,45.0,2004
+211.0,engenharia sanitaria e ambiental,68.33,53.88,80.0,2004
+102.0,farmacia,72.26,53.16,120.0,2004
+329.0,filosofia  noturno,62.24,39.79,35.0,2004
+328.0,filosofia  vespertinonoturno,64.37,33.9,35.0,2004
+2.0,fisica  bacharelado  diurno,68.48,45.51,45.0,2004
+225.0,fisica  licenciatura  noturno,61.47,37.63,65.0,2004
+331.0,geografia  diurno,60.0,41.22,40.0,2004
+332.0,geografia  noturno,56.19,45.06,40.0,2004
+326.0,historia  diurno,64.1,46.05,45.0,2004
+327.0,historia  noturno,61.9,46.27,45.0,2004
+415.0,jornalismo,72.41,62.42,60.0,2004
+421.0,letras  lingua alema  diurno,54.83,35.26,40.0,2004
+423.0,letras  lingua espanhola,52.31,40.31,40.0,2004
+424.0,letras  lingua francesa,53.06,38.35,40.0,2004
+425.0,letras  lingua inglesa,60.93,44.79,40.0,2004
+427.0,letras  lingua italiana,52.83,36.82,40.0,2004
+428.0,letras  lingua portuguesa,64.16,42.26,40.0,2004
+426.0,letras  lingua portuguesa  noturno,60.68,40.17,40.0,2004
+429.0,letras  secretar executivo ingles bel,54.85,42.12,40.0,2004
+223.0,matematica  licenciatura  diurno,73.95,35.45,65.0,2004
+224.0,matematica  licenciatura  noturno,58.93,36.48,40.0,2004
+222.0,matematica e computacao cientifica,70.31,40.75,30.0,2004
+103.0,medicina,79.66,71.41,100.0,2004
+9.0,nutricao,66.57,56.18,40.0,2004
+104.0,odontologia,72.14,58.08,90.0,2004
+308.0,pedagogia,70.58,37.93,100.0,2004
+319.0,psicologia,70.68,53.24,80.0,2004
+217.0,quimica,71.75,43.49,80.0,2004
+309.0,servico social  diurno,53.64,36.38,80.0,2004
+339.0,servico social  noturno,53.62,37.1,60.0,2004
+238.0,sistemas de informacao  noturno,69.92,50.45,100.0,2004
+,,,,,2005
+301.0,administracao  diurno,64.12,48.6,90.0,2005
+316.0,administracao  noturno,62.57,46.1,90.0,2005
+501.0,agronomia,59.79,43.41,90.0,2005
+207.0,arquitetura e urbanismo,67.64,53.18,80.0,2005
+324.0,biblioteconomia  noturno,43.64,30.08,80.0,2005
+108.0,ciencias biologicas,70.93,54.09,60.0,2005
+302.0,ciencias contabeis  diurno,56.59,38.93,80.0,2005
+317.0,ciencias contabeis  noturno,54.72,40.42,80.0,2005
+208.0,ciencias da computacao,68.54,48.95,100.0,2005
+304.0,ciencias economicas  diurno,61.73,40.7,90.0,2005
+318.0,ciencias economicas  noturno,62.28,40.27,90.0,2005
+310.0,ciencias sociais  diurno,60.73,41.29,40.0,2005
+320.0,ciencias sociais  noturno,63.14,38.01,40.0,2005
+450.0,cinema,63.32,51.34,30.0,2005
+420.0,design,71.84,51.12,60.0,2005
+303.0,direito  diurno,73.04,57.22,80.0,2005
+5.0,direito  noturno,66.93,54.92,80.0,2005
+404.0,educacao fisica,59.84,42.14,120.0,2005
+101.0,enfermagem,61.09,42.14,70.0,2005
+220.0,eng de controle e automacao industrial,74.89,61.68,60.0,2005
+201.0,engenharia civil,67.85,50.47,100.0,2005
+215.0,engenharia de alimentos,65.16,49.52,45.0,2005
+234.0,engenharia de aquicultura,63.57,46.36,60.0,2005
+233.0,engenharia de materiais,61.35,48.51,60.0,2005
+212.0,engenharia de producao civil,61.83,49.77,35.0,2005
+213.0,engenharia de producao eletrica,71.99,52.22,35.0,2005
+214.0,engenharia de producao mecanica,66.07,55.75,35.0,2005
+202.0,engenharia eletrica,76.11,53.34,100.0,2005
+203.0,engenharia mecanica,74.05,57.89,100.0,2005
+216.0,engenharia quimica,69.4,54.68,45.0,2005
+211.0,engenharia sanitaria e ambiental,65.78,49.92,80.0,2005
+102.0,farmacia,68.32,49.7,120.0,2005
+329.0,filosofia  noturno,53.69,35.6,35.0,2005
+328.0,filosofia  vespertinonoturno,58.3,38.88,35.0,2005
+2.0,fisica  bacharelado  diurno,74.62,42.86,45.0,2005
+225.0,fisica  licenciatura  noturno,55.32,36.94,65.0,2005
+331.0,geografia  diurno,59.37,40.88,40.0,2005
+332.0,geografia  noturno,55.26,38.04,40.0,2005
+326.0,historia  diurno,60.22,43.08,45.0,2005
+327.0,historia  noturno,57.89,39.03,45.0,2005
+415.0,jornalismo,67.79,56.21,60.0,2005
+421.0,letras  lingua alema,54.87,35.17,40.0,2005
+423.0,letras  lingua espanhola,49.76,37.97,40.0,2005
+424.0,letras  lingua francesa,55.1,36.49,40.0,2005
+425.0,letras  lingua inglesa,62.44,42.25,40.0,2005
+427.0,letras  lingua italiana,52.76,36.93,40.0,2005
+428.0,letras  lingua portuguesa,59.93,39.27,40.0,2005
+426.0,letras  lingua portuguesa  noturno,57.85,38.09,40.0,2005
+429.0,letras  secretariado executivo ingles,57.49,39.93,40.0,2005
+223.0,matematica  licenciatura  diurno,63.95,35.15,65.0,2005
+224.0,matematica  licenciatura  noturno,71.52,36.32,40.0,2005
+222.0,matematica e computacao cientifica,53.97,35.81,30.0,2005
+103.0,medicina,77.58,68.7,100.0,2005
+9.0,nutricao,65.25,49.99,40.0,2005
+104.0,odontologia,68.67,52.61,90.0,2005
+308.0,pedagogia,51.74,34.44,100.0,2005
+319.0,psicologia,64.91,49.98,80.0,2005
+217.0,quimica,56.83,39.24,80.0,2005
+309.0,servico social  diurno,52.11,35.35,80.0,2005
+339.0,servico social  noturno,47.15,34.66,60.0,2005
+238.0,sistemas de informacao  noturno,63.29,47.09,100.0,2005
+301.0,administracao  diurno,73.5,54.16,90.0,2006
+316.0,administracao  noturno,70.01,53.76,90.0,2006
+501.0,agronomia,69.18,49.76,90.0,2006
+207.0,arquitetura e urbanismo,77.57,60.63,80.0,2006
+324.0,biblioteconomia  noturno,54.13,39.34,80.0,2006
+108.0,ciencias biologicas,77.18,61.26,60.0,2006
+302.0,ciencias contabeis  diurno,67.3,45.84,80.0,2006
+317.0,ciencias contabeis  noturno,65.3,49.08,80.0,2006
+208.0,ciencias da computacao,77.07,56.15,100.0,2006
+304.0,ciencias economicas  diurno,70.32,49.59,90.0,2006
+318.0,ciencias economicas  noturno,71.7,48.5,90.0,2006
+310.0,ciencias sociais  diurno,69.96,49.96,40.0,2006
+320.0,ciencias sociais  noturno,67.07,48.63,40.0,2006
+450.0,cinema,72.3,61.09,30.0,2006
+420.0,design,77.51,57.62,60.0,2006
+303.0,direito  diurno,78.9,65.47,80.0,2006
+5.0,direito  noturno,77.79,64.21,80.0,2006
+444.0,educacao fisica  bacharelado,67.11,49.37,60.0,2006
+404.0,educacao fisica  licenciatura,63.21,45.69,60.0,2006
+101.0,enfermagem,63.82,47.94,70.0,2006
+220.0,eng de controle e automacao ind,79.11,68.11,60.0,2006
+201.0,engenharia civil,74.47,58.31,100.0,2006
+215.0,engenharia de alimentos,72.69,57.03,45.0,2006
+234.0,engenharia de aquicultura,66.26,49.97,60.0,2006
+233.0,engenharia de materiais,68.31,58.17,60.0,2006
+212.0,engenharia de producao civil,69.4,59.76,35.0,2006
+213.0,engenharia de producao eletrica,72.02,59.52,35.0,2006
+214.0,engenharia de producao mecanica,76.88,65.33,35.0,2006
+202.0,engenharia eletrica,80.86,60.72,100.0,2006
+203.0,engenharia mecanica,79.79,66.05,100.0,2006
+216.0,engenharia quimica,74.33,60.74,45.0,2006
+211.0,engenharia sanitaria e ambiental,76.06,58.42,80.0,2006
+102.0,farmacia,74.95,54.78,120.0,2006
+329.0,filosofia  noturno,63.51,48.0,35.0,2006
+328.0,filosofia  vespertinonoturno,59.39,43.4,35.0,2006
+2.0,fisica  bacharelado  diurno,76.97,51.15,45.0,2006
+225.0,fisica  licenciatura  noturno,65.37,39.61,65.0,2006
+331.0,geografia  diurno,64.85,48.93,40.0,2006
+332.0,geografia  noturno,60.78,49.05,40.0,2006
+326.0,historia  diurno,67.27,48.62,45.0,2006
+327.0,historia  noturno,65.29,50.63,45.0,2006
+415.0,jornalismo,75.88,63.56,60.0,2006
+421.0,letras  lingua alema,60.43,43.87,40.0,2006
+423.0,letras  lingua espanhola,51.81,42.39,40.0,2006
+424.0,letras  lingua francesa,58.77,45.21,40.0,2006
+425.0,letras  lingua inglesa,62.63,49.84,40.0,2006
+427.0,letras  lingua italiana,56.66,41.9,40.0,2006
+428.0,letras  lingua portuguesa,63.83,46.32,40.0,2006
+426.0,letras  lingua portuguesa  not,67.98,46.43,40.0,2006
+429.0,letras  secretariado exec ingles,62.44,46.57,40.0,2006
+223.0,matematica  licenc  diurno,62.59,37.37,65.0,2006
+224.0,matematica  licenciatura  not,75.46,41.64,40.0,2006
+222.0,matematica e comput cientifica,69.88,43.04,30.0,2006
+103.0,medicina,82.62,73.31,100.0,2006
+9.0,nutricao,70.67,57.57,40.0,2006
+104.0,odontologia,70.69,57.75,90.0,2006
+308.0,pedagogia,65.27,41.12,100.0,2006
+319.0,psicologia,74.44,56.99,80.0,2006
+217.0,quimica,78.43,47.77,80.0,2006
+309.0,servico social  diurno,70.93,38.45,80.0,2006
+339.0,servico social  noturno,58.93,40.82,60.0,2006
+238.0,sistemas de informacao  noturno,67.05,54.4,100.0,2006
+301.0,administracao  diurno,83.38,58.24,90.0,2007
+316.0,administracao  noturno,73.76,52.98,90.0,2007
+501.0,agronomia,70.84,46.67,90.0,2007
+207.0,arquitetura e urbanismo,80.74,63.33,80.0,2007
+324.0,biblioteconomia  noturno,60.4,29.52,80.0,2007
+108.0,ciencias biologicas,83.6,65.07,60.0,2007
+302.0,ciencias contabeis  diurno,70.18,49.14,80.0,2007
+317.0,ciencias contabeis  noturno,75.51,46.74,80.0,2007
+208.0,ciencias da computacao,82.27,57.87,100.0,2007
+304.0,ciencias economicas  diurno,73.83,51.02,90.0,2007
+318.0,ciencias economicas  noturno,74.58,47.92,90.0,2007
+310.0,ciencias sociais  diurno,71.79,52.14,40.0,2007
+320.0,ciencias sociais  noturno,65.26,45.4,40.0,2007
+450.0,cinema,75.42,61.76,30.0,2007
+420.0,design,74.77,60.04,60.0,2007
+303.0,direito  diurno,81.26,69.05,80.0,2007
+5.0,direito  noturno,83.48,67.07,80.0,2007
+444.0,educacao fisica  bacharelado,74.71,50.24,60.0,2007
+404.0,educacao fisica  licenciatura,69.86,45.57,60.0,2007
+101.0,enfermagem,69.7,47.59,70.0,2007
+220.0,eng de controle e automacao ind,81.19,69.83,60.0,2007
+201.0,engenharia civil,74.4,61.13,100.0,2007
+215.0,engenharia de alimentos,81.74,58.99,45.0,2007
+234.0,engenharia de aquicultura,72.35,46.38,60.0,2007
+233.0,engenharia de materiais,75.67,61.66,60.0,2007
+212.0,engenharia de producao civil,74.84,62.39,35.0,2007
+213.0,engenharia de producao eletrica,72.37,62.11,35.0,2007
+214.0,engenharia de producao mecanica,76.94,69.64,35.0,2007
+202.0,engenharia eletrica,75.17,63.27,100.0,2007
+203.0,engenharia mecanica,85.11,69.71,100.0,2007
+216.0,engenharia quimica,80.31,66.13,45.0,2007
+211.0,engenharia sanitaria e ambiental,78.89,60.17,80.0,2007
+102.0,farmacia,81.48,56.11,120.0,2007
+329.0,filosofia  noturno,71.84,43.21,35.0,2007
+328.0,filosofia  vespertinonoturno,60.35,46.79,35.0,2007
+2.0,fisica  bacharelado  diurno,73.91,48.43,45.0,2007
+225.0,fisica  licenciatura  noturno,83.8,42.99,65.0,2007
+331.0,geografia  diurno,74.18,47.89,40.0,2007
+332.0,geografia  noturno,70.29,43.73,40.0,2007
+326.0,historia  diurno,68.98,50.18,45.0,2007
+327.0,historia  noturno,73.7,44.25,45.0,2007
+415.0,jornalismo,81.07,67.9,60.0,2007
+421.0,letras  lingua alema,69.62,40.25,40.0,2007
+423.0,letras  lingua espanhola,58.53,41.19,40.0,2007
+424.0,letras  lingua francesa,65.59,43.29,40.0,2007
+425.0,letras  lingua inglesa,70.35,50.46,40.0,2007
+427.0,letras  lingua italiana,58.35,38.8,40.0,2007
+428.0,letras  lingua portuguesa,71.47,47.14,40.0,2007
+426.0,letras  lingua portuguesa  not,67.4,44.62,40.0,2007
+429.0,letras  secretariado exec ingles,71.63,44.83,40.0,2007
+223.0,matematica  licenc  diurno,71.53,37.89,65.0,2007
+224.0,matematica  licenciatura  not,65.77,34.42,40.0,2007
+222.0,matematica e comput cientifica,68.32,41.7,30.0,2007
+103.0,medicina,85.49,77.58,100.0,2007
+9.0,nutricao,71.85,57.3,40.0,2007
+104.0,odontologia,76.91,60.6,90.0,2007
+308.0,pedagogia,64.46,36.95,100.0,2007
+319.0,psicologia,77.05,57.16,80.0,2007
+217.0,quimica,70.13,45.37,80.0,2007
+309.0,servico social  diurno,67.4,39.54,80.0,2007
+339.0,servico social  noturno,52.98,35.33,60.0,2007
+238.0,sistemas de informacao  noturno,77.96,55.73,100.0,2007
+301.0,administracao  diurno,76.3,60.96,63.0,2008
+316.0,administracao  noturno,76.93,62.24,63.0,2008
+501.0,agronomia,75.84,53.62,63.0,2008
+207.0,arquitetura e urbanismo,80.02,69.81,56.0,2008
+451.0,artes cenicas  hab em teatro,72.55,50.3,21.0,2008
+324.0,biblioteconomia  noturno,63.51,41.52,56.0,2008
+108.0,ciencias biologicas,82.5,66.85,42.0,2008
+302.0,ciencias contabeis  diurno,72.32,52.4,56.0,2008
+317.0,ciencias contabeis  noturno,75.79,55.9,56.0,2008
+208.0,ciencias da computacao,82.88,64.83,70.0,2008
+304.0,ciencias economicas  diurno,82.17,57.28,63.0,2008
+318.0,ciencias economicas  noturno,77.76,57.54,63.0,2008
+310.0,ciencias sociais  diurno,76.44,54.68,28.0,2008
+320.0,ciencias sociais  noturno,76.79,53.29,28.0,2008
+450.0,cinema,77.9,65.86,21.0,2008
+420.0,design,81.25,64.59,42.0,2008
+303.0,direito  diurno,85.62,75.1,56.0,2008
+5.0,direito  noturno,81.6,72.41,56.0,2008
+444.0,educacao fisica  bacharelado,70.29,54.16,42.0,2008
+404.0,educacao fisica  licenciatura,72.5,51.29,42.0,2008
+101.0,enfermagem,77.07,52.7,49.0,2008
+220.0,eng de controle e automacao,83.21,75.19,42.0,2008
+201.0,engenharia civil,78.47,67.42,70.0,2008
+215.0,engenharia de alimentos,76.61,64.42,31.0,2008
+234.0,engenharia de aquicultura,77.74,52.23,42.0,2008
+233.0,engenharia de materiais,79.59,67.87,42.0,2008
+212.0,engenharia de producao civil,77.3,67.33,28.0,2008
+213.0,engenharia de producao eletrica,83.23,64.26,28.0,2008
+214.0,engenharia de producao mecanica,79.48,73.46,28.0,2008
+202.0,engenharia eletrica,85.05,68.04,70.0,2008
+203.0,engenharia mecanica,87.42,75.66,70.0,2008
+216.0,engenharia quimica,83.9,72.57,31.0,2008
+211.0,engenharia sanitaria e ambiental,78.61,68.24,56.0,2008
+102.0,farmacia,80.21,59.57,84.0,2008
+329.0,filosofia  noturno,73.06,50.6,24.0,2008
+328.0,filosofia  vespertinonoturno,67.84,44.49,24.0,2008
+2.0,fisica  bacharelado  diurno,81.57,52.94,31.0,2008
+225.0,fisica  licenciatura  noturno,72.79,39.56,45.0,2008
+331.0,geografia  diurno,71.71,51.91,28.0,2008
+332.0,geografia  noturno,68.64,51.33,28.0,2008
+326.0,historia  diurno,75.2,54.78,31.0,2008
+327.0,historia  noturno,70.63,54.04,31.0,2008
+415.0,jornalismo,83.94,69.01,42.0,2008
+421.0,letras  lingua alema,71.51,42.45,28.0,2008
+423.0,letras  lingua espanhola,64.45,46.49,28.0,2008
+424.0,letras  lingua francesa,74.78,47.61,28.0,2008
+425.0,letras  lingua inglesa,68.42,55.51,28.0,2008
+427.0,letras  lingua italiana,62.88,45.15,28.0,2008
+428.0,letras  lingua portuguesa,83.43,41.73,56.0,2008
+426.0,letras  lingua portuguesa  not,65.59,47.6,28.0,2008
+429.0,letras  secretariado exec ingles,66.68,50.09,28.0,2008
+223.0,matematica  licenc  diurno,67.87,33.39,45.0,2008
+224.0,matematica  licenciatura  not,67.2,47.59,28.0,2008
+222.0,matematica e comput cientifica,81.41,47.12,21.0,2008
+103.0,medicina,91.68,81.04,70.0,2008
+9.0,nutricao,80.21,62.27,28.0,2008
+333.0,oceanografia,77.16,65.99,21.0,2008
+104.0,odontologia,82.82,66.12,63.0,2008
+308.0,pedagogia,63.05,42.28,70.0,2008
+319.0,psicologia,75.79,61.03,56.0,2008
+217.0,quimica,77.22,54.51,56.0,2008
+309.0,servico social  diurno,64.57,37.56,56.0,2008
+339.0,servico social  noturno,55.05,43.4,42.0,2008
+238.0,sistemas de informacao  noturno,76.49,63.43,70.0,2008
+502.0,zootecnia,65.23,46.92,42.0,2008
+316.0,administracao  noturno,71.86,52.51,70.0,2009
+501.0,agronomia,68.35,48.63,70.0,2009
+207.0,arquitetura e urbanismo,80.89,66.5,56.0,2009
+451.0,artes cenicas  hab em teatro,64.56,46.23,21.0,2009
+324.0,biblioteconomia  noturno,61.46,34.94,56.0,2009
+503.0,ciencia e tecnol agroalimentar  diurno,69.14,45.54,42.0,2009
+108.0,ciencias biologicas,81.52,63.28,56.0,2009
+302.0,ciencias contabeis  diurno,74.24,52.69,63.0,2009
+317.0,ciencias contabeis  noturno,70.04,49.42,63.0,2009
+208.0,ciencias da computacao,81.19,61.59,70.0,2009
+304.0,ciencias economicas  diurno,79.08,55.35,63.0,2009
+318.0,ciencias economicas  noturno,76.82,50.67,63.0,2009
+310.0,ciencias sociais  diurno,75.17,47.09,30.0,2009
+320.0,ciencias sociais  noturno,74.63,45.71,33.0,2009
+450.0,cinema,78.62,62.21,21.0,2009
+453.0,design de animacao,70.58,56.95,28.0,2009
+452.0,design de produto,70.26,53.74,28.0,2009
+420.0,design grafico,77.92,61.2,28.0,2009
+303.0,direito  diurno,84.12,71.89,63.0,2009
+5.0,direito  noturno,81.94,70.94,63.0,2009
+444.0,educacao fisica  bacharelado,76.5,49.38,42.0,2009
+404.0,educacao fisica  licenciatura,67.72,45.21,42.0,2009
+101.0,enfermagem,68.31,47.18,52.0,2009
+220.0,eng de controle e automacao,83.76,72.02,51.0,2009
+201.0,engenharia civil,83.52,67.88,77.0,2009
+215.0,engenharia de alimentos,74.19,61.33,35.0,2009
+234.0,engenharia de aquicultura,64.49,41.5,49.0,2009
+233.0,engenharia de materiais,78.92,64.73,49.0,2009
+212.0,engenharia de producao civil,76.12,66.25,28.0,2009
+213.0,engenharia de producao eletrica,73.63,64.18,28.0,2009
+214.0,engenharia de producao mecanica,81.35,71.21,28.0,2009
+202.0,engenharia eletrica,81.74,64.55,70.0,2009
+203.0,engenharia mecanica,88.87,73.69,77.0,2009
+216.0,engenharia quimica,84.29,69.58,35.0,2009
+211.0,engenharia sanitaria e ambiental,81.82,64.46,63.0,2009
+102.0,farmacia,76.04,54.56,91.0,2009
+329.0,filosofia  noturno,64.59,40.7,26.0,2009
+328.0,filosofia  vespertinonoturno,65.96,43.98,26.0,2009
+2.0,fisica  bacharelado  diurno,81.37,45.37,38.0,2009
+225.0,fisica  licenciatura  noturno,64.03,34.02,52.0,2009
+331.0,geografia  diurno,68.88,50.15,28.0,2009
+332.0,geografia  noturno,68.04,45.89,28.0,2009
+326.0,historia  diurno,71.32,49.51,31.0,2009
+327.0,historia  noturno,61.68,43.72,31.0,2009
+415.0,jornalismo,84.6,66.82,42.0,2009
+421.0,letras  lingua alema,64.8,40.21,28.0,2009
+423.0,letras  lingua espanhola,52.76,38.22,28.0,2009
+424.0,letras  lingua francesa,67.97,39.56,28.0,2009
+425.0,letras  lingua inglesa,72.19,49.57,28.0,2009
+427.0,letras  lingua italiana,51.26,33.43,28.0,2009
+428.0,letras  lingua portuguesa,74.1,43.38,56.0,2009
+426.0,letras  lingua portuguesa  not,60.05,38.5,28.0,2009
+429.0,letras  secretariado exec ingles,65.95,45.79,28.0,2009
+223.0,matematica  licenc  diurno,74.2,36.68,45.0,2009
+224.0,matematica  licenciatura  not,79.34,34.23,28.0,2009
+222.0,matematica e comput cientifica,76.52,37.48,28.0,2009
+103.0,medicina,88.47,81.0,70.0,2009
+9.0,nutricao,70.77,58.05,31.0,2009
+333.0,oceanografia,73.4,61.98,21.0,2009
+104.0,odontologia,80.99,62.52,70.0,2009
+308.0,pedagogia,64.67,34.16,70.0,2009
+319.0,psicologia,74.28,59.42,63.0,2009
+3.0,quimica  bel,79.73,45.1,56.0,2009
+205.0,quimica  lic,62.45,36.35,28.0,2009
+340.0,relacoes internacionais,79.78,66.31,56.0,2009
+309.0,servico social  diurno,55.45,37.35,56.0,2009
+339.0,servico social  noturno,60.64,34.95,42.0,2009
+238.0,sistemas de informacao  noturno,75.64,60.11,70.0,2009
+502.0,zootecnia,60.93,41.79,42.0,2009
+316.0,administracao  noturno,74.43,56.7,70.0,2010
+501.0,agronomia,74.55,45.93,77.0,2010
+337.0,antropologia,70.34,42.03,17.0,2010
+207.0,arquitetura e urbanismo,87.45,68.15,56.0,2010
+335.0,arquivologia,54.08,37.45,42.0,2010
+451.0,artes cenicas  hab em teatro,71.35,45.87,21.0,2010
+324.0,biblioteconomia  noturno,59.17,39.05,56.0,2010
+503.0,ciencia e tecnol agroalimentar  diurno,67.52,39.16,49.0,2010
+108.0,ciencias biologicas,77.99,61.75,56.0,2010
+110.0,ciencias biologicas  lic noturno,66.19,36.64,56.0,2010
+302.0,ciencias contabeis  diurno,70.28,46.46,63.0,2010
+317.0,ciencias contabeis  noturno,66.15,47.55,63.0,2010
+208.0,ciencias da computacao,78.89,60.11,70.0,2010
+304.0,ciencias economicas  diurno,77.52,51.8,63.0,2010
+318.0,ciencias economicas  noturno,74.69,51.0,63.0,2010
+551.0,ciencias rurais  bel  diurno,70.06,39.06,252.0,2010
+310.0,ciencias sociais  diurno,63.59,39.5,30.0,2010
+320.0,ciencias sociais  noturno,76.19,45.9,33.0,2010
+450.0,cinema,72.19,64.34,21.0,2010
+453.0,design de animacao,82.15,59.84,28.0,2010
+452.0,design de produto,73.72,57.31,28.0,2010
+420.0,design grafico,79.67,60.82,28.0,2010
+303.0,direito  diurno,88.08,72.26,63.0,2010
+5.0,direito  noturno,83.15,70.45,63.0,2010
+444.0,educacao fisica  bacharelado,67.96,48.85,42.0,2010
+404.0,educacao fisica  licenciatura,60.53,42.66,42.0,2010
+101.0,enfermagem,72.06,48.25,52.0,2010
+220.0,eng de controle e automacao,87.02,71.18,51.0,2010
+201.0,engenharia civil,81.82,69.7,77.0,2010
+601.0,engenharia da mobilidade  diurno,78.92,44.66,280.0,2010
+215.0,engenharia de alimentos,72.71,61.9,35.0,2010
+234.0,engenharia de aquicultura,67.75,38.03,56.0,2010
+653.0,engenharia de energia,73.68,48.07,56.0,2010
+233.0,engenharia de materiais,79.45,66.74,49.0,2010
+212.0,engenharia de producao civil,79.25,67.78,28.0,2010
+213.0,engenharia de producao eletrica,74.91,61.74,28.0,2010
+214.0,engenharia de producao mecanica,78.12,71.76,28.0,2010
+202.0,engenharia eletrica,83.64,67.43,70.0,2010
+235.0,engenharia eletronica  diurno,76.29,59.47,42.0,2010
+203.0,engenharia mecanica,86.51,75.0,77.0,2010
+216.0,engenharia quimica,81.93,72.56,35.0,2010
+211.0,engenharia sanitaria e ambiental,79.55,65.79,63.0,2010
+102.0,farmacia,72.06,55.84,91.0,2010
+329.0,filosofia  noturno,64.33,39.74,26.0,2010
+328.0,filosofia  vespertinonoturno,56.78,38.38,26.0,2010
+2.0,fisica  bacharelado  diurno,77.62,41.77,38.0,2010
+225.0,fisica  licenciatura  noturno,65.63,40.09,52.0,2010
+109.0,fonoaudiologia  noturno,65.94,39.9,56.0,2010
+331.0,geografia  diurno,71.75,49.86,28.0,2010
+332.0,geografia  noturno,69.79,40.93,28.0,2010
+336.0,geologia,69.8,57.51,21.0,2010
+326.0,historia  diurno,69.49,51.71,31.0,2010
+327.0,historia  noturno,72.29,49.13,31.0,2010
+415.0,jornalismo,79.94,67.24,42.0,2010
+421.0,letras  lingua alema,59.39,40.95,28.0,2010
+423.0,letras  lingua espanhola,58.32,39.19,28.0,2010
+424.0,letras  lingua francesa,68.6,40.19,28.0,2010
+425.0,letras  lingua inglesa,75.24,49.82,28.0,2010
+427.0,letras  lingua italiana,62.85,36.95,28.0,2010
+428.0,letras  lingua portuguesa,65.85,39.51,56.0,2010
+426.0,letras  lingua portuguesa  not,81.5,38.42,28.0,2010
+429.0,letras  secretariado exec ingles,65.51,46.53,28.0,2010
+223.0,matematica  licenc  diurno,61.45,39.57,45.0,2010
+224.0,matematica  licenciatura  not,57.75,40.73,28.0,2010
+222.0,matematica e comput cientifica,68.5,42.46,28.0,2010
+103.0,medicina,90.51,82.17,70.0,2010
+338.0,museologia,54.03,48.64,17.0,2010
+9.0,nutricao,74.9,56.19,31.0,2010
+333.0,oceanografia,76.68,63.38,21.0,2010
+104.0,odontologia,79.04,63.6,70.0,2010
+308.0,pedagogia,78.38,37.75,70.0,2010
+319.0,psicologia,76.08,59.33,63.0,2010
+3.0,quimica  bel,72.36,39.46,56.0,2010
+205.0,quimica  lic,64.32,38.87,28.0,2010
+340.0,relacoes internacionais,88.71,66.85,56.0,2010
+309.0,servico social  diurno,60.72,36.99,56.0,2010
+339.0,servico social  noturno,57.86,39.91,42.0,2010
+238.0,sistemas de informacao  noturno,77.75,60.48,70.0,2010
+651.0,tec da informacao e comunicacao  diurno,66.97,34.59,70.0,2010
+652.0,tec da informacao e comunicacao noturno,62.38,36.28,70.0,2010
+502.0,zootecnia,63.73,38.96,49.0,2010
+316.0,administracao  noturno,70.54,47.2,70.0,2011
+501.0,agronomia,64.99,37.39,77.0,2011
+337.0,antropologia,59.41,45.46,17.0,2011
+207.0,arquitetura e urbanismo,74.44,64.07,56.0,2011
+335.0,arquivologia,62.19,20.99,42.0,2011
+451.0,artes cenicas  hab em teatro,57.73,39.82,21.0,2011
+324.0,biblioteconomia  noturno,49.52,25.1,56.0,2011
+503.0,ciencia e tecnol agroalimentar  diurno,59.03,25.6,49.0,2011
+108.0,ciencias biologicas,78.07,56.16,56.0,2011
+110.0,ciencias biologicas  lic noturno,66.48,41.49,56.0,2011
+302.0,ciencias contabeis  diurno,65.33,46.0,63.0,2011
+317.0,ciencias contabeis  noturno,65.48,42.53,63.0,2011
+208.0,ciencias da computacao,69.68,53.94,70.0,2011
+304.0,ciencias economicas  diurno,75.85,48.18,63.0,2011
+318.0,ciencias economicas  noturno,63.82,40.37,63.0,2011
+551.0,ciencias rurais  bel  diurno,54.36,20.5,140.0,2011
+310.0,ciencias sociais  diurno,76.61,37.67,30.0,2011
+320.0,ciencias sociais  noturno,58.34,38.33,33.0,2011
+450.0,cinema,69.18,57.25,21.0,2011
+453.0,design de animacao,73.58,55.75,28.0,2011
+452.0,design de produto,63.16,51.74,28.0,2011
+420.0,design grafico,67.76,56.12,28.0,2011
+303.0,direito  diurno,86.45,68.49,63.0,2011
+5.0,direito  noturno,84.31,65.01,63.0,2011
+444.0,educacao fisica  bacharelado,63.0,44.33,42.0,2011
+404.0,educacao fisica  licenciatura,52.9,39.02,42.0,2011
+101.0,enfermagem,61.76,43.57,52.0,2011
+201.0,engenharia civil,77.23,66.93,77.0,2011
+601.0,engenharia da mobilidade  diurno,76.47,43.71,280.0,2011
+215.0,engenharia de alimentos,72.29,56.25,35.0,2011
+234.0,engenharia de aquicultura,63.18,37.56,56.0,2011
+655.0,engenharia de computacao  noturno,64.84,43.57,42.0,2011
+220.0,engenharia de controle e automacao,78.16,65.6,51.0,2011
+653.0,engenharia de energia,68.72,46.85,56.0,2011
+233.0,engenharia de materiais,77.71,63.11,49.0,2011
+212.0,engenharia de producao civil,70.82,62.1,28.0,2011
+213.0,engenharia de producao eletrica,67.86,56.3,28.0,2011
+214.0,engenharia de producao mecanica,79.03,66.5,28.0,2011
+202.0,engenharia eletrica,83.82,63.8,70.0,2011
+235.0,engenharia eletronica  diurno,73.1,59.0,42.0,2011
+203.0,engenharia mecanica,86.46,70.82,77.0,2011
+216.0,engenharia quimica,79.48,67.84,35.0,2011
+211.0,engenharia sanitaria e ambiental,71.25,60.2,63.0,2011
+102.0,farmacia,74.62,49.54,91.0,2011
+329.0,filosofia  noturno,64.46,40.85,26.0,2011
+328.0,filosofia  vespertinonoturno,60.5,35.91,26.0,2011
+2.0,fisica  bacharelado  diurno,79.03,39.96,38.0,2011
+225.0,fisica  licenciatura  noturno,76.79,20.03,52.0,2011
+654.0,fisioterapia  bel  diurno,57.84,36.02,42.0,2011
+109.0,fonoaudiologia  noturno,61.0,41.95,56.0,2011
+331.0,geografia  diurno,70.91,39.91,28.0,2011
+332.0,geografia  noturno,65.94,41.83,28.0,2011
+336.0,geologia,72.19,56.34,21.0,2011
+326.0,historia  diurno,69.46,41.05,31.0,2011
+327.0,historia  noturno,61.59,42.72,31.0,2011
+415.0,jornalismo,73.9,59.97,42.0,2011
+421.0,letras  lingua alema,60.11,21.78,28.0,2011
+423.0,letras  lingua espanhola,53.64,23.59,28.0,2011
+424.0,letras  lingua francesa,54.98,33.6,28.0,2011
+425.0,letras  lingua inglesa,64.03,48.45,28.0,2011
+427.0,letras  lingua italiana,50.55,28.76,28.0,2011
+428.0,letras  lingua portuguesa,71.06,25.03,56.0,2011
+426.0,letras  lingua portuguesa  not,49.7,30.13,28.0,2011
+429.0,letras  secretariado exec ingles,60.42,40.32,28.0,2011
+223.0,matematica  licenc  diurno,75.04,23.37,45.0,2011
+224.0,matematica  licenciatura  not,55.73,24.03,28.0,2011
+222.0,matematica e comput cientifica,74.33,32.74,28.0,2011
+103.0,medicina,86.56,79.98,70.0,2011
+338.0,museologia,60.51,36.67,17.0,2011
+9.0,nutricao,63.5,50.12,31.0,2011
+333.0,oceanografia,70.12,55.16,21.0,2011
+104.0,odontologia,74.31,56.33,70.0,2011
+308.0,pedagogia,63.79,26.06,70.0,2011
+319.0,psicologia,69.07,56.3,63.0,2011
+3.0,quimica  bel,64.45,39.15,56.0,2011
+205.0,quimica  lic,62.35,31.78,28.0,2011
+340.0,relacoes internacionais,77.76,61.71,56.0,2011
+309.0,servico social  diurno,64.83,24.45,56.0,2011
+339.0,servico social  noturno,49.32,24.37,42.0,2011
+238.0,sistemas de informacao  noturno,73.86,55.57,70.0,2011
+652.0,tec da informacao e comunicacao noturno,60.73,33.38,70.0,2011
+502.0,zootecnia,69.02,28.53,49.0,2011
+316.0,administracao  noturno,73.36,54.12,70.0,2012
+501.0,agronomia,67.38,45.2,77.0,2012
+337.0,antropologia  bel  diurno,69.05,48.91,17.0,2012
+207.0,arquitetura e urbanismo,79.32,67.02,56.0,2012
+335.0,arquivologia  bel  diurno,56.64,21.53,42.0,2012
+451.0,artes cenicas  bel  noturno,74.17,49.01,21.0,2012
+324.0,biblioteconomia  noturno,60.34,26.12,56.0,2012
+503.0,ciencia e tecnol agroalimentar  diurno,57.92,26.04,49.0,2012
+108.0,ciencias biologicas  bellic  diurno,69.72,59.3,56.0,2012
+110.0,ciencias biologicas  lic noturno,71.33,44.04,56.0,2012
+302.0,ciencias contabeis  diurno,65.74,49.17,63.0,2012
+317.0,ciencias contabeis  noturno,65.18,47.27,63.0,2012
+208.0,ciencias da computacao,73.38,54.91,70.0,2012
+304.0,ciencias economicas  diurno,67.83,52.87,63.0,2012
+318.0,ciencias economicas  noturno,69.71,50.15,63.0,2012
+551.0,ciencias rurais  diurno,65.49,22.11,140.0,2012
+310.0,ciencias sociais  bellic  diurno,67.35,42.43,30.0,2012
+320.0,ciencias sociais  bellic  noturno,65.13,40.41,33.0,2012
+450.0,cinema  bel  diurno,71.48,62.95,21.0,2012
+454.0,design  bel  diurno,71.09,58.1,84.0,2012
+303.0,direito  diurno,80.83,68.75,63.0,2012
+5.0,direito  noturno,78.93,66.3,63.0,2012
+444.0,educacao fisica  bel  diurno,69.8,48.73,42.0,2012
+404.0,educacao fisica  lic  diurno,53.8,41.02,42.0,2012
+101.0,enfermagem,63.25,49.88,52.0,2012
+655.0,eng de computacao  vespertinonoturno,66.64,51.3,42.0,2012
+653.0,eng de energia  vespertino e noturno,74.96,57.12,56.0,2012
+201.0,engenharia civil,82.12,68.68,77.0,2012
+601.0,engenharia da mobilidade,78.0,49.57,280.0,2012
+215.0,engenharia de alimentos,74.71,58.5,35.0,2012
+234.0,engenharia de aquicultura,59.6,24.51,56.0,2012
+220.0,engenharia de controle e automacao,83.24,66.63,51.0,2012
+233.0,engenharia de materiais,75.6,63.12,49.0,2012
+212.0,engenharia de producao civil,75.94,66.1,28.0,2012
+213.0,engenharia de producao eletrica,69.24,62.6,28.0,2012
+214.0,engenharia de producao mecanica,78.8,69.42,28.0,2012
+202.0,engenharia eletrica,83.27,64.37,70.0,2012
+235.0,engenharia eletronica,71.57,60.33,42.0,2012
+203.0,engenharia mecanica,89.06,71.63,77.0,2012
+216.0,engenharia quimica,76.29,69.06,35.0,2012
+211.0,engenharia sanitaria e ambiental,73.72,63.39,63.0,2012
+102.0,farmacia,68.94,49.84,91.0,2012
+329.0,filosofia  bellic  noturno,65.05,26.03,26.0,2012
+328.0,filosofia  vespertinonoturno,60.6,19.72,26.0,2012
+2.0,fisica  bel  diurno,68.53,38.52,38.0,2012
+225.0,fisica  licenciatura  noturno,73.68,27.19,52.0,2012
+654.0,fisioterapia  bel  diurno,67.88,43.43,42.0,2012
+109.0,fonoaudiologia  noturno,64.05,42.88,56.0,2012
+331.0,geografia  bellic  diurno,65.5,46.72,28.0,2012
+332.0,geografia  bellic  noturno,66.62,33.8,28.0,2012
+336.0,geologia  bel  diurno,70.14,59.47,21.0,2012
+326.0,historia  bellic  diurno,63.92,49.59,31.0,2012
+327.0,historia  bellic  noturno,70.69,47.95,31.0,2012
+415.0,jornalismo,76.05,63.18,42.0,2012
+421.0,letras  alemao  bellic  diurno,55.55,30.61,28.0,2012
+423.0,letras  espanhol  bellic  diurno,55.92,27.35,28.0,2012
+424.0,letras  frances  bellic  diurno,56.51,37.86,28.0,2012
+425.0,letras  ingles  bellic  diurno,69.87,49.65,28.0,2012
+427.0,letras  italiano  bellic  diurno,51.32,24.24,28.0,2012
+441.0,letras  libras  bel  diurno,55.05,32.49,14.0,2012
+440.0,letras  libras  lic  diurno,45.11,23.51,14.0,2012
+428.0,letras  portugues  bellic  diurno,66.67,29.68,56.0,2012
+426.0,letras  portugues  bellic  noturno,62.86,30.9,28.0,2012
+223.0,matematica  licenciatura  diurno,62.2,28.13,45.0,2012
+224.0,matematica  licenciatura  noturno,59.91,24.5,28.0,2012
+222.0,matematica e comput cientifica  bel,80.8,38.83,28.0,2012
+103.0,medicina,86.63,79.18,70.0,2012
+552.0,medicina veterinaria,72.12,51.58,28.0,2012
+230.0,meteorologia,64.86,23.53,21.0,2012
+338.0,museologia  bel  diurno,56.08,26.48,17.0,2012
+9.0,nutricao,68.63,55.54,31.0,2012
+333.0,oceanografia,67.77,59.69,21.0,2012
+104.0,odontologia,78.43,60.65,70.0,2012
+308.0,pedagogia,69.5,30.5,70.0,2012
+319.0,psicologia  bellic  diurno,74.14,60.64,63.0,2012
+3.0,quimica  bel  diurno,69.28,42.85,56.0,2012
+205.0,quimica  licenciatura  diurno,57.12,32.14,28.0,2012
+340.0,relacoes internacionais,76.41,64.84,56.0,2012
+429.0,secretariado executivo  bel  noturno,57.63,41.73,28.0,2012
+309.0,servico social  diurno,56.13,25.62,56.0,2012
+339.0,servico social  noturno,59.84,37.9,42.0,2012
+238.0,sistemas de informacao  noturno,68.76,57.08,70.0,2012
+652.0,tec da informacao e comunicacaovespnot,67.4,37.58,70.0,2012
+502.0,zootecnia,59.01,30.81,49.0,2012
+301.0,administracao  diurno,72.83,55.88,70.0,2013
+316.0,administracao  noturno,72.66,53.03,70.0,2013
+501.0,agronomia,63.15,44.19,77.0,2013
+555.0,agronomia  curitibanos,53.96,23.62,70.0,2013
+337.0,antropologia  bel  diurno,74.26,50.45,17.0,2013
+207.0,arquitetura e urbanismo,75.52,69.18,56.0,2013
+335.0,arquivologia  bel  diurno,56.27,31.18,42.0,2013
+451.0,artes cenicas  bel  noturno,63.18,50.8,21.0,2013
+324.0,biblioteconomia  noturno,57.78,28.62,56.0,2013
+503.0,ciencia e tecnologia de alimentos,61.55,28.61,49.0,2013
+108.0,ciencias biologicas  bellic  diurno,70.39,59.37,56.0,2013
+110.0,ciencias biologicas  lic noturno,66.82,45.49,56.0,2013
+302.0,ciencias contabeis  diurno,74.17,49.32,63.0,2013
+317.0,ciencias contabeis  noturno,69.7,48.24,63.0,2013
+208.0,ciencias da computacao,82.97,57.97,70.0,2013
+304.0,ciencias economicas  diurno,71.8,49.66,63.0,2013
+318.0,ciencias economicas  noturno,69.7,51.44,63.0,2013
+310.0,ciencias sociais  bellic  diurno,62.27,49.56,29.0,2013
+320.0,ciencias sociais  bellic  noturno,65.96,35.67,33.0,2013
+450.0,cinema  bel  diurno,80.72,61.34,21.0,2013
+454.0,design  bel  diurnonoturno,73.6,58.63,84.0,2013
+303.0,direito  diurno,81.95,70.43,63.0,2013
+5.0,direito  noturno,80.94,67.47,63.0,2013
+444.0,educacao fisica  bel  diurno,70.9,48.99,42.0,2013
+404.0,educacao fisica  lic  diurno,60.04,43.06,42.0,2013
+101.0,enfermagem  diurno,63.28,48.13,52.0,2013
+655.0,eng de computacao  vespertinonoturno,72.91,53.8,42.0,2013
+653.0,eng de energia  vespertino e noturno,70.92,53.55,56.0,2013
+201.0,engenharia civil  diurno,80.66,71.2,77.0,2013
+215.0,engenharia de alimentos  diurno,72.16,59.58,35.0,2013
+234.0,engenharia de aquicultura  diurno,61.91,27.36,56.0,2013
+220.0,engenharia de controle e automacao,82.31,70.04,50.0,2013
+233.0,engenharia de materiais  diurno,77.28,63.86,49.0,2013
+212.0,engenharia de producao civil  diurno,76.64,68.95,28.0,2013
+213.0,engenharia de producao eletrica  diurno,71.18,60.06,28.0,2013
+214.0,engenharia de producao mecanica  diurno,79.11,70.79,28.0,2013
+202.0,engenharia eletrica  diurno,86.03,66.57,70.0,2013
+235.0,engenharia eletronica  diurno,77.18,64.53,42.0,2013
+553.0,engenharia florestal,59.56,24.08,70.0,2013
+203.0,engenharia mecanica  diurno,86.17,72.78,77.0,2013
+216.0,engenharia quimica  diurno,84.45,73.09,35.0,2013
+211.0,engenharia sanitaria e ambiental,76.58,64.01,63.0,2013
+601.0,engenharias  joinville,79.67,56.13,280.0,2013
+102.0,farmacia  diurno,79.74,49.31,91.0,2013
+329.0,filosofia  bellic  noturno,65.53,41.83,25.0,2013
+328.0,filosofia  bellic  vespertinonoturno,72.59,39.71,25.0,2013
+2.0,fisica  bel  diurno,71.1,48.84,38.0,2013
+225.0,fisica  licenciatura  noturno,70.6,34.97,52.0,2013
+654.0,fisioterapia  bel  diurno,64.35,45.7,42.0,2013
+109.0,fonoaudiologia  noturno,70.02,43.01,56.0,2013
+331.0,geografia  bellic  diurno,72.76,40.08,28.0,2013
+332.0,geografia  bellic  noturno,57.33,45.32,28.0,2013
+336.0,geologia  bel  diurno,72.03,61.35,21.0,2013
+326.0,historia  bellic  diurno,66.84,51.42,31.0,2013
+327.0,historia  bellic  noturno,69.66,45.09,31.0,2013
+415.0,jornalismo  diurno,74.31,62.04,42.0,2013
+421.0,letras  alemao  bellic  diurno,57.04,33.67,28.0,2013
+423.0,letras  espanhol  bellic  diurno,62.34,29.68,28.0,2013
+424.0,letras  frances  bellic  diurno,66.37,34.93,28.0,2013
+425.0,letras  ingles  bellic  diurno,73.37,49.94,28.0,2013
+427.0,letras  italiano  bellic  diurno,50.12,28.27,28.0,2013
+441.0,letras  libras  bel  diurno,53.56,32.01,14.0,2013
+440.0,letras  libras  lic  diurno,49.71,26.43,14.0,2013
+428.0,letras  portugues  bellic  diurno,73.03,37.3,56.0,2013
+426.0,letras  portugues  bellic  noturno,58.86,41.34,28.0,2013
+223.0,matematica  licenciatura  diurno,60.35,27.91,45.0,2013
+224.0,matematica  licenciatura  noturno,63.88,30.65,28.0,2013
+222.0,matematica e comput cientifica  bel,79.04,26.83,28.0,2013
+103.0,medicina  diurno,86.42,80.77,70.0,2013
+552.0,medicina veterinaria  diurno,76.94,52.86,56.0,2013
+230.0,meteorologia  diurno,61.75,28.65,21.0,2013
+338.0,museologia  bel  diurno,56.01,34.52,17.0,2013
+9.0,nutricao  diurno,70.27,56.86,31.0,2013
+333.0,oceanografia  diurno,72.26,58.3,21.0,2013
+104.0,odontologia  diurno,74.47,63.06,70.0,2013
+308.0,pedagogia  diurno,62.21,38.36,70.0,2013
+319.0,psicologia  bellic  diurno,74.3,60.31,63.0,2013
+3.0,quimica  belbel em quimica tecnologica,77.12,44.47,56.0,2013
+205.0,quimica  licenciatura  diurno,69.42,29.63,28.0,2013
+340.0,relacoes internacionais  diurno,77.7,64.41,56.0,2013
+429.0,secretariado executivo  bel  noturno,58.25,44.7,28.0,2013
+309.0,servico social  diurno,56.39,26.62,56.0,2013
+339.0,servico social  noturno,60.13,23.88,42.0,2013
+238.0,sistemas de informacao  noturno,74.68,58.28,70.0,2013
+652.0,tec da informacao e comunicacaonoturno,62.02,33.46,70.0,2013
+502.0,zootecnia  diurno,63.57,29.86,49.0,2013
+,,,,4214.0,2013
+301.0,administracao  diurno,69.19,53.97,65.0,2014
+316.0,administracao  noturno,71.32,51.35,65.0,2014
+501.0,agronomia,66.19,39.67,71.0,2014
+555.0,agronomia curitibanos,61.08,25.75,65.0,2014
+337.0,antropologia  bel  diurno,68.71,45.56,16.0,2014
+207.0,arquitetura e urbanismo,79.79,68.42,52.0,2014
+335.0,arquivologia  bel  diurno,61.9,27.87,39.0,2014
+451.0,artes cenicas  bel  noturno,58.73,47.93,19.0,2014
+324.0,biblioteconomia  noturno,52.63,24.23,52.0,2014
+503.0,ciencia e tecnologia de alimentos,59.9,26.17,45.0,2014
+108.0,ciencias biologicas  bellic  diurno,79.44,59.65,52.0,2014
+110.0,ciencias biologicas  lic noturno,70.69,43.21,52.0,2014
+302.0,ciencias contabeis  diurno,67.98,47.48,58.0,2014
+317.0,ciencias contabeis  noturno,63.63,45.34,58.0,2014
+208.0,ciencias da computacao,72.64,57.07,65.0,2014
+304.0,ciencias economicas  diurno,74.0,44.56,58.0,2014
+318.0,ciencias economicas  noturno,72.63,28.01,58.0,2014
+310.0,ciencias sociais  bellic  diurno,65.08,49.31,27.0,2014
+320.0,ciencias sociais  bellic  noturno,67.28,42.33,31.0,2014
+450.0,cinema  bel  diurno,69.35,61.85,19.0,2014
+454.0,design  bel  diurnonoturno,72.97,57.56,78.0,2014
+303.0,direito  diurno,87.9,69.47,58.0,2014
+5.0,direito  noturno,81.12,66.66,58.0,2014
+444.0,educacao fisica  bel  diurno,62.5,47.56,39.0,2014
+404.0,educacao fisica  lic  diurno,57.29,40.04,39.0,2014
+101.0,enfermagem  diurno,66.83,48.71,48.0,2014
+653.0,eng de energia  vespnot ararangua,72.84,49.6,52.0,2014
+655.0,engde computacao  vespnot ararangua,75.56,50.06,39.0,2014
+754.0,engde controle e automacao blumenau,71.69,52.06,65.0,2014
+753.0,engde materiais  diurno blumenau,64.57,37.75,65.0,2014
+201.0,engenharia civil  diurno,84.67,70.87,71.0,2014
+215.0,engenharia de alimentos  diurno,72.12,59.63,32.0,2014
+234.0,engenharia de aquicultura  diurno,61.7,29.32,52.0,2014
+220.0,engenharia de controle e automacao,80.14,66.34,46.0,2014
+233.0,engenharia de materiais  diurno,77.72,65.64,45.0,2014
+212.0,engenharia de producao civil  diurno,78.79,67.1,26.0,2014
+213.0,engenharia de producao eletrica  diurno,75.84,64.21,26.0,2014
+214.0,engenharia de producao mecanica  diurno,83.5,71.32,26.0,2014
+202.0,engenharia eletrica  diurno,80.79,67.23,65.0,2014
+235.0,engenharia eletronica  diurno,75.25,62.4,39.0,2014
+553.0,engenharia florestal curitibanos,59.08,28.44,65.0,2014
+203.0,engenharia mecanica  diurno,85.1,73.43,71.0,2014
+216.0,engenharia quimica  diurno,83.91,72.55,32.0,2014
+211.0,engenharia sanitaria e ambiental,75.74,63.07,58.0,2014
+755.0,engenharia textil  diurno blumenau,64.11,30.8,65.0,2014
+601.0,engenharias joinville,77.64,56.01,260.0,2014
+102.0,farmacia  diurno,74.02,48.07,84.0,2014
+329.0,filosofia  bellic  noturno,72.58,47.12,24.0,2014
+328.0,filosofia  bellic  vespertinonoturno,67.37,32.89,24.0,2014
+2.0,fisica  bel  diurno,77.31,56.58,35.0,2014
+225.0,fisica  licenciatura  noturno,73.95,36.81,48.0,2014
+654.0,fisioterapia  bel  diurno ararangua,55.89,40.4,39.0,2014
+109.0,fonoaudiologia  noturno,59.64,43.28,39.0,2014
+331.0,geografia  bellic  diurno,57.82,47.05,26.0,2014
+332.0,geografia  bellic  noturno,61.21,36.78,26.0,2014
+336.0,geologia  bel  diurno,72.3,58.78,19.0,2014
+326.0,historia  bellic  diurno,74.46,53.42,29.0,2014
+327.0,historia  bellic  noturno,64.24,46.59,29.0,2014
+415.0,jornalismo  diurno,78.13,61.08,39.0,2014
+421.0,letras  alemao  bellic  diurno,73.04,30.53,26.0,2014
+423.0,letras  espanhol  bellic  diurno,59.51,29.96,26.0,2014
+424.0,letras  frances  bellic  diurno,57.1,34.22,26.0,2014
+425.0,letras  ingles  bellic  diurno,67.96,52.05,26.0,2014
+427.0,letras  italiano  bellic  diurno,52.49,30.06,26.0,2014
+441.0,letras  libras  bel  diurno,48.3,29.74,13.0,2014
+440.0,letras  libras  lic  diurno,44.83,28.31,13.0,2014
+428.0,letras  portugues  bellic  diurno,66.68,42.38,52.0,2014
+426.0,letras  portugues  bellic  noturno,62.72,40.65,26.0,2014
+751.0,matematica  lic  noturno blumenau,61.47,26.59,65.0,2014
+223.0,matematica  licenciatura  diurno,70.27,38.48,42.0,2014
+224.0,matematica  licenciatura  noturno,59.8,27.36,26.0,2014
+222.0,matematica e comput cientifica  bel,60.2,34.73,26.0,2014
+103.0,medicina  diurno,89.54,81.08,65.0,2014
+552.0,medicina veterinaria curitibanos,67.34,50.71,52.0,2014
+230.0,meteorologia  diurno,58.47,28.04,19.0,2014
+338.0,museologia  bel  diurno,56.24,29.5,16.0,2014
+9.0,nutricao  diurno,79.65,56.75,29.0,2014
+333.0,oceanografia  diurno,70.77,55.83,19.0,2014
+104.0,odontologia  diurno,78.64,61.69,65.0,2014
+308.0,pedagogia  diurno,68.09,34.68,65.0,2014
+319.0,psicologia  bellic  diurno,77.25,60.55,58.0,2014
+3.0,quimica  belbel em quimica tecnologica,72.6,49.31,52.0,2014
+752.0,quimica  lic  noturno blumenau,68.38,29.31,65.0,2014
+205.0,quimica  licenciatura  diurno,62.9,45.57,26.0,2014
+340.0,relacoes internacionais  diurno,78.89,62.72,52.0,2014
+429.0,secretariado executivo  bel  noturno,57.35,41.08,26.0,2014
+309.0,servico social  diurno,65.05,27.16,52.0,2014
+339.0,servico social  noturno,61.0,19.71,39.0,2014
+238.0,sistemas de informacao  noturno,77.09,55.85,65.0,2014
+652.0,tec da info e comunicacao ararangua,61.54,23.63,65.0,2014
+502.0,zootecnia  diurno,56.59,24.03,45.0,2014
+,,,,4216.0,2014
+301.0,administracao  diurno,68.1,44.29,52.0,2015
+316.0,administracao  noturno,66.61,39.52,52.0,2015
+501.0,agronomia,71.64,31.67,57.0,2015
+555.0,agronomia curitibanos,53.51,28.16,52.0,2015
+337.0,antropologia  bel  diurno,53.98,43.81,13.0,2015
+207.0,arquitetura e urbanismo,78.61,65.96,42.0,2015
+335.0,arquivologia  bel  diurno,53.02,33.54,31.0,2015
+451.0,artes cenicas  bel  noturno,60.03,38.22,15.0,2015
+601.0,bacharel interdisciplinar em mobilidade,64.94,31.56,31.0,2015
+324.0,biblioteconomia  noturno,57.89,25.71,42.0,2015
+503.0,ciencia e tecnologia de alimentos,63.99,29.34,36.0,2015
+108.0,ciencias biologicas  bellic  diurno,81.26,56.87,42.0,2015
+110.0,ciencias biologicas  lic noturno,64.2,31.07,42.0,2015
+302.0,ciencias contabeis  diurno,60.96,29.41,47.0,2015
+317.0,ciencias contabeis  noturno,64.07,26.01,47.0,2015
+208.0,ciencias da computacao,76.37,57.87,52.0,2015
+304.0,ciencias economicas  diurno,79.97,47.51,47.0,2015
+318.0,ciencias economicas  noturno,69.07,39.92,47.0,2015
+310.0,ciencias sociais  bellic  diurno,66.5,44.56,22.0,2015
+320.0,ciencias sociais  bellic  noturno,61.25,31.17,25.0,2015
+450.0,cinema  bel  diurno,72.64,58.96,15.0,2015
+454.0,design  bel  diurnonoturno,74.33,54.89,63.0,2015
+303.0,direito  diurno,83.53,68.43,47.0,2015
+5.0,direito  noturno,79.2,66.41,47.0,2015
+444.0,educacao fisica  bel  diurno,60.92,47.62,31.0,2015
+404.0,educacao fisica  lic  diurno,60.93,25.25,31.0,2015
+101.0,enfermagem  diurno,59.47,42.77,39.0,2015
+653.0,eng de energia  vespnot ararangua,68.8,42.27,42.0,2015
+655.0,engde computacao  vespnot ararangua,70.3,47.1,31.0,2015
+754.0,engde controle e automacao blumenau,67.64,28.66,52.0,2015
+753.0,engde materiais  diurno blumenau,67.88,31.9,52.0,2015
+602.0,engenharia aeroespacial,75.1,63.79,26.0,2015
+603.0,engenharia automotiva,71.81,57.62,26.0,2015
+201.0,engenharia civil  diurno,78.16,67.51,57.0,2015
+215.0,engenharia de alimentos  diurno,69.52,58.43,26.0,2015
+234.0,engenharia de aquicultura  diurno,52.14,32.84,42.0,2015
+220.0,engenharia de controle e automacao,81.12,66.15,37.0,2015
+607.0,engenharia de infraestrutura,67.31,52.64,26.0,2015
+233.0,engenharia de materiais  diurno,82.22,63.69,36.0,2015
+212.0,engenharia de producao civil  diurno,74.72,65.86,21.0,2015
+213.0,engenharia de producao eletrica  diurno,69.35,58.42,21.0,2015
+214.0,engenharia de producao mecanica  diurno,78.09,69.16,21.0,2015
+608.0,engenharia de transportes e logistica,66.57,34.66,26.0,2015
+202.0,engenharia eletrica  diurno,78.46,66.46,52.0,2015
+235.0,engenharia eletronica  diurno,75.76,61.09,31.0,2015
+604.0,engenharia ferroviaria e metroviaria,69.07,33.86,21.0,2015
+553.0,engenharia florestal curitibanos,50.31,29.46,52.0,2015
+203.0,engenharia mecanica  diurno,82.48,72.14,57.0,2015
+605.0,engenharia mecatronica,75.14,61.07,26.0,2015
+606.0,engenharia naval,71.8,62.48,26.0,2015
+216.0,engenharia quimica  diurno,85.96,69.82,26.0,2015
+211.0,engenharia sanitaria e ambiental,74.63,61.29,47.0,2015
+755.0,engenharia textil  diurno blumenau,69.76,34.21,52.0,2015
+102.0,farmacia  diurno,68.55,30.03,68.0,2015
+329.0,filosofia  bellic  noturno,60.92,39.76,19.0,2015
+328.0,filosofia  bellic  vespertinonoturno,61.4,28.7,19.0,2015
+2.0,fisica  bel  diurno,70.87,37.9,28.0,2015
+225.0,fisica  licenciatura  noturno,78.77,30.49,39.0,2015
+654.0,fisioterapia  bel  diurno ararangua,58.41,27.89,31.0,2015
+109.0,fonoaudiologia  noturno,58.86,28.87,31.0,2015
+331.0,geografia  bellic  diurno,61.89,34.04,21.0,2015
+332.0,geografia  bellic  noturno,60.15,31.71,21.0,2015
+336.0,geologia  bel  diurno,74.64,59.61,15.0,2015
+326.0,historia  bellic  diurno,63.74,49.76,23.0,2015
+327.0,historia  bellic  noturno,61.48,43.4,23.0,2015
+415.0,jornalismo  diurno,70.48,58.6,31.0,2015
+421.0,letras  alemao  bellic  diurno,56.1,35.63,21.0,2015
+423.0,letras  espanhol  bellic  diurno,55.08,33.24,21.0,2015
+424.0,letras  frances  bellic  diurno,51.76,30.07,21.0,2015
+425.0,letras  ingles  bellic  diurno,63.01,50.0,21.0,2015
+427.0,letras  italiano  bellic  diurno,53.87,37.2,21.0,2015
+441.0,letras  libras  bel  diurno,47.73,37.1,10.0,2015
+440.0,letras  libras  lic  diurno,28.31,28.31,10.0,2015
+428.0,letras  portugues  bellic  diurno,59.86,31.55,42.0,2015
+426.0,letras  portugues  bellic  noturno,67.14,34.9,21.0,2015
+751.0,matematica  lic  noturno blumenau,66.89,30.99,52.0,2015
+223.0,matematica  licenciatura  diurno,61.53,35.05,34.0,2015
+224.0,matematica  licenciatura  noturno,57.62,32.64,21.0,2015
+222.0,matematica e comput cientifica  bel,62.28,38.24,21.0,2015
+103.0,medicina  diurno,89.45,78.8,52.0,2015
+552.0,medicina veterinaria curitibanos,61.2,42.0,42.0,2015
+230.0,meteorologia  diurno,58.5,31.22,15.0,2015
+338.0,museologia  bel  diurno,54.88,33.29,13.0,2015
+9.0,nutricao  diurno,67.95,57.1,23.0,2015
+333.0,oceanografia  diurno,65.73,54.1,15.0,2015
+104.0,odontologia  diurno,73.04,57.94,52.0,2015
+308.0,pedagogia  diurno,61.1,29.29,52.0,2015
+319.0,psicologia  bellic  diurno,75.09,61.38,47.0,2015
+3.0,quimica  belbel em quimica tecnologica,70.87,42.36,42.0,2015
+752.0,quimica  lic  noturno blumenau,55.62,33.36,52.0,2015
+205.0,quimica  licenciatura  diurno,67.24,25.64,21.0,2015
+340.0,relacoes internacionais  diurno,79.7,61.17,42.0,2015
+429.0,secretariado executivo  bel  noturno,62.87,33.55,21.0,2015
+309.0,servico social  diurno,50.01,26.7,42.0,2015
+339.0,servico social  noturno,56.05,27.46,31.0,2015
+238.0,sistemas de informacao  noturno,74.62,52.98,52.0,2015
+652.0,tec da info e comunicacao ararangua,66.24,29.78,52.0,2015
+502.0,zootecnia  diurno,55.33,31.5,36.0,2015
+,,,,3386.0,2015
+301.0,administracao  diurno,68.62,53.58,35.0,2016
+316.0,administracao  noturno,67.08,52.83,35.0,2016
+501.0,agronomia,70.24,51.41,38.0,2016
+555.0,agronomia curitibanos,53.54,26.93,35.0,2016
+455.0,animacao  bacharelado diurnonoturno,73.7,58.75,14.0,2016
+337.0,antropologia  bel  diurno,70.46,52.46,9.0,2016
+207.0,arquitetura e urbanismo,81.8,70.49,28.0,2016
+335.0,arquivologia  bel  diurno,50.07,24.42,21.0,2016
+451.0,artes cenicas  bel  noturno,62.3,51.5,10.0,2016
+601.0,bacharel interdisciplinar em mobilidade,58.58,39.67,21.0,2016
+324.0,biblioteconomia  noturno,62.46,25.21,21.0,2016
+342.0,ciencia da informacao  bel  diurnonot,53.25,33.56,7.0,2016
+503.0,ciencia e tecnologia de alimentos,60.88,31.39,24.0,2016
+108.0,ciencias biologicas  bellic  diurno,80.14,61.03,28.0,2016
+110.0,ciencias biologicas  lic noturno,61.31,47.9,28.0,2016
+302.0,ciencias contabeis  diurno,70.26,48.94,31.0,2016
+317.0,ciencias contabeis  noturno,64.03,46.88,31.0,2016
+208.0,ciencias da computacao,83.12,61.06,35.0,2016
+304.0,ciencias economicas  diurno,71.29,54.6,31.0,2016
+318.0,ciencias economicas  noturno,66.3,50.24,31.0,2016
+310.0,ciencias sociais  bellic  diurno,68.42,54.51,15.0,2016
+320.0,ciencias sociais  bellic  noturno,66.17,50.81,17.0,2016
+450.0,cinema  bel  diurno,76.82,61.36,10.0,2016
+454.0,design  bel  diurnonoturno,73.59,62.68,28.0,2016
+303.0,direito  diurno,85.45,73.34,31.0,2016
+5.0,direito  noturno,85.85,68.64,31.0,2016
+444.0,educacao fisica  bel  diurno,62.13,51.25,21.0,2016
+404.0,educacao fisica  lic  diurno,63.25,44.47,21.0,2016
+101.0,enfermagem  diurno,61.83,51.16,26.0,2016
+653.0,eng de energia  vespnot ararangua,74.9,54.02,28.0,2016
+655.0,engde computacaodiurnonot ararangua,74.42,53.5,21.0,2016
+754.0,engde controle e automacao blumenau,72.81,53.63,35.0,2016
+602.0,engenharia aeroespacial,84.15,70.91,17.0,2016
+603.0,engenharia automotiva,72.81,56.7,17.0,2016
+201.0,engenharia civil  diurno,84.31,73.54,38.0,2016
+215.0,engenharia de alimentos  diurno,75.12,63.88,17.0,2016
+234.0,engenharia de aquicultura  diurno,56.28,27.17,28.0,2016
+220.0,engenharia de controle e automacao,79.3,69.79,25.0,2016
+607.0,engenharia de infraestrutura,66.89,53.31,17.0,2016
+212.0,engenharia de producao civil  diurno,78.01,68.69,14.0,2016
+213.0,engenharia de producao eletrica  diurno,73.08,64.88,14.0,2016
+214.0,engenharia de producao mecanica  diurno,82.75,74.44,14.0,2016
+608.0,engenharia de transportes e logistica,71.07,44.99,17.0,2016
+202.0,engenharia eletrica  diurno,83.03,72.23,35.0,2016
+235.0,engenharia eletronica  diurno,76.65,66.24,21.0,2016
+604.0,engenharia ferroviaria e metroviaria,67.63,48.47,14.0,2016
+553.0,engenharia florestal curitibanos,54.51,23.17,35.0,2016
+233.0,engenharia materiais  diurno,80.43,67.37,24.0,2016
+753.0,engenharia materiais  diurno blumenau,68.07,44.44,35.0,2016
+203.0,engenharia mecanica  diurno,84.14,76.37,38.0,2016
+605.0,engenharia mecatronica,78.93,67.68,17.0,2016
+606.0,engenharia naval,76.1,66.16,17.0,2016
+216.0,engenharia quimica  diurno,82.85,75.1,17.0,2016
+211.0,engenharia sanitaria e ambiental,82.97,65.13,31.0,2016
+755.0,engenharia textil  diurno blumenau,57.5,26.23,35.0,2016
+102.0,farmacia  diurno,71.12,52.12,45.0,2016
+329.0,filosofia  bellic  noturno,67.04,48.65,13.0,2016
+328.0,filosofia  bellic  vespertinonoturno,63.89,48.03,13.0,2016
+2.0,fisica  bel  diurno,71.53,59.16,19.0,2016
+225.0,fisica  licenciatura  noturno,77.03,33.21,26.0,2016
+654.0,fisioterapia  bel  diurno ararangua,57.05,46.34,21.0,2016
+109.0,fonoaudiologia  diurno,65.27,46.16,21.0,2016
+331.0,geografia  bellic  diurno,71.5,44.9,14.0,2016
+332.0,geografia  bellic  noturno,58.44,46.2,14.0,2016
+336.0,geologia  bel  diurno,72.24,61.37,10.0,2016
+326.0,historia  bellic  diurno,70.52,57.3,16.0,2016
+327.0,historia  bellic  noturno,67.25,51.94,16.0,2016
+415.0,jornalismo  diurno,78.98,60.9,21.0,2016
+421.0,letras  alemao  bellic  diurno,56.06,23.77,14.0,2016
+423.0,letras  espanhol  bellic  diurno,51.65,25.89,14.0,2016
+424.0,letras  frances  bellic  diurno,59.46,42.39,14.0,2016
+425.0,letras  ingles  bellic  diurno,73.03,55.7,14.0,2016
+427.0,letras  italiano  bellic  diurno,50.47,29.25,14.0,2016
+441.0,letras  libras  bel  diurno,39.23,25.51,10.0,2016
+440.0,letras  libras  lic  diurno,59.7,25.36,10.0,2016
+428.0,letras  portugues  bellic  diurno,59.34,46.08,28.0,2016
+426.0,letras  portugues  bellic  noturno,63.7,46.68,14.0,2016
+756.0,matematica  lic  diurno blumenau,53.05,30.05,17.0,2016
+751.0,matematica  lic  noturno blumenau,65.53,29.51,17.0,2016
+223.0,matematica  licenciatura  diurno,65.93,23.1,23.0,2016
+224.0,matematica  licenciatura  noturno,48.84,26.5,14.0,2016
+222.0,matematica e comput cientifica  bel,82.88,38.58,14.0,2016
+103.0,medicina  diurno,89.38,83.88,35.0,2016
+552.0,medicina veterinaria curitibanos,71.25,52.26,28.0,2016
+230.0,meteorologia  diurno,46.76,25.59,10.0,2016
+338.0,museologia  bel  diurno,49.92,35.28,9.0,2016
+9.0,nutricao  diurno,75.54,59.06,16.0,2016
+333.0,oceanografia  diurno,69.95,62.29,10.0,2016
+104.0,odontologia  diurno,76.42,62.75,35.0,2016
+308.0,pedagogia  diurno,54.16,36.48,35.0,2016
+319.0,psicologia  bellic  diurno,73.99,64.59,31.0,2016
+3.0,quimica  belbel em quimica tecnologica,91.2,52.35,28.0,2016
+752.0,quimica  lic  noturno blumenau,67.98,24.82,35.0,2016
+205.0,quimica  licenciatura  diurno,63.62,43.03,14.0,2016
+340.0,relacoes internacionais  diurno,81.09,65.25,28.0,2016
+429.0,secretariado executivo  bel  noturno,53.01,41.12,14.0,2016
+309.0,servico social  diurno,67.81,40.56,28.0,2016
+339.0,servico social  noturno,57.3,35.14,21.0,2016
+238.0,sistemas de informacao  noturno,75.1,59.0,35.0,2016
+652.0,tec da info e comunicacao ararangua,61.24,32.29,35.0,2016
+502.0,zootecnia  diurno,64.46,40.9,24.0,2016
+,,,,2271.0,2016
+301.0,administracao  diurno  florianopolis,69.62,51.84,35.0,2017
+316.0,administracao  noturno  florianopolis,74.58,49.85,35.0,2017
+501.0,agronomia  diurno  florianopolis,62.82,46.17,38.0,2017
+555.0,agronomia  diurnonoturno  curitibanos,52.66,27.95,35.0,2017
+455.0,animacao  bel  diurnonoturno  florianopolis,76.46,61.84,14.0,2017
+337.0,antropologia  bel  diurno  florianopolis,65.52,52.79,9.0,2017
+207.0,arquitetura e urbanismo  diurno  florianopolis,80.38,67.7,28.0,2017
+335.0,arquivologia  bel  diurno  florianopolis,59.89,26.31,21.0,2017
+451.0,artes cenicas  bel  noturno  florianopolis,78.21,61.83,15.0,2017
+601.0,bacharelado interdiscip em mobilidade  joinville,62.28,28.1,21.0,2017
+324.0,biblioteconomia  noturno  florianopolis,53.42,25.31,21.0,2017
+342.0,ciencia da informacao  bel  diurnonot  florianopolis,56.16,43.9,7.0,2017
+503.0,ciencia e tecnologia de alimentos  florianopolis,55.54,24.92,24.0,2017
+108.0,ciencias biologicas  bellic  diurno  florianopolis,72.3,59.73,28.0,2017
+110.0,ciencias biologicas  lic noturno  florianopolis,65.53,50.9,28.0,2017
+302.0,ciencias contabeis  diurno  florianopolis,62.02,49.5,31.0,2017
+317.0,ciencias contabeis  noturno  florianopolis,75.25,44.39,31.0,2017
+208.0,ciencias da computacao  diurno  florianopolis,75.7,61.87,35.0,2017
+304.0,ciencias economicas  diurno  florianopolis,79.17,53.03,31.0,2017
+318.0,ciencias economicas  noturno  florianopolis,64.16,50.99,31.0,2017
+310.0,ciencias sociais  bellic  diurno  florianopolis,65.62,47.17,15.0,2017
+320.0,ciencias sociais  bellic  noturno  florianopolis,61.97,45.96,17.0,2017
+450.0,cinema  bel  diurno  florianopolis,80.73,60.75,10.0,2017
+454.0,design  bel  diurnonoturno  florianopolis,73.23,59.99,21.0,2017
+452.0,design de produto  bel  diurnonoturno  florianopolis,65.38,48.37,14.0,2017
+303.0,direito  diurno  florianopolis,81.89,66.73,31.0,2017
+5.0,direito  noturno  florianopolis,79.08,69.69,31.0,2017
+444.0,educacao fisica  bel  diurno  florianopolis,72.48,52.45,21.0,2017
+404.0,educacao fisica  lic  diurno  florianopolis,62.44,44.03,21.0,2017
+101.0,enfermagem  diurno  florianopolis,64.46,49.36,26.0,2017
+602.0,engenharia aeroespacial  diurno  joinville,81.04,68.23,17.0,2017
+603.0,engenharia automotiva  diurno  joinville,74.99,57.89,17.0,2017
+201.0,engenharia civil  diurno  florianopolis,78.56,67.28,38.0,2017
+215.0,engenharia de alimentos  diurno  florianopolis,68.96,54.7,17.0,2017
+234.0,engenharia de aquicultura  diurno  florianopolis,67.98,30.67,28.0,2017
+655.0,engenharia de computacaodiurnonoturno  ararangua,71.32,50.68,21.0,2017
+754.0,engenharia de controle e automacao  blumenau,66.83,48.73,35.0,2017
+220.0,engenharia de controle e automacao  florianopolis,77.27,67.38,25.0,2017
+653.0,engenharia de energiavespertinonoturno  ararangua,69.9,46.98,28.0,2017
+607.0,engenharia de infraestrutura  diurno  joinville,67.82,48.22,17.0,2017
+753.0,engenharia de materiais  diurno  blumenau,59.02,37.12,35.0,2017
+233.0,engenharia de materiais  diurno  florianopolis,73.89,58.71,24.0,2017
+212.0,engenharia de producao civil  diurno  florianopolis,75.67,65.99,14.0,2017
+213.0,engenharia de producao eletrica  diurno  florianopolis,67.33,61.69,14.0,2017
+214.0,engenharia de producao mecanica  diurno  florianopolis,76.19,69.45,14.0,2017
+608.0,engenharia de transportes e logistica  joinville,65.76,44.2,17.0,2017
+202.0,engenharia eletrica  diurno  florianopolis,82.67,66.21,35.0,2017
+235.0,engenharia eletronica  diurno  florianopolis,75.59,59.73,21.0,2017
+604.0,engenharia ferroviaria e metroviaria  joinville,63.91,38.26,14.0,2017
+553.0,engenharia florestal  diurnonoturno  curitibanos,50.21,25.84,35.0,2017
+203.0,engenharia mecanica  diurno  florianopolis,83.04,74.04,38.0,2017
+605.0,engenharia mecatronica  diurno  joinville,71.35,63.35,17.0,2017
+606.0,engenharia naval  diurno  joinville,70.75,63.16,17.0,2017
+216.0,engenharia quimica  diurno  florianopolis,81.34,71.07,17.0,2017
+211.0,engenharia sanitaria e ambiental  diurn  florianopolis,72.61,57.8,31.0,2017
+755.0,engenharia textil  diurno  blumenau,56.03,23.65,35.0,2017
+102.0,farmacia  diurno  florianopolis,73.45,52.39,45.0,2017
+329.0,filosofia  bellic  noturno  florianopolis,53.07,46.34,13.0,2017
+328.0,filosofia  bellic  vespertinonoturno  florianopolis,69.98,50.44,13.0,2017
+2.0,fisica  bel  diurno  florianopolis,70.9,57.64,19.0,2017
+225.0,fisica  licenciatura  noturno  florianopolis,56.92,34.4,26.0,2017
+654.0,fisioterapia  bel  diurno  ararangua,62.71,47.34,21.0,2017
+109.0,fonoaudiologia  diurno  florianopolis,65.97,45.5,21.0,2017
+331.0,geografia  bellic  diurno  florianopolis,61.63,49.39,14.0,2017
+332.0,geografia  bellic  noturno  florianopolis,65.04,46.11,14.0,2017
+336.0,geologia  bel  diurno  florianopolis,77.4,60.75,10.0,2017
+326.0,historia  bellic  diurno  florianopolis,70.17,56.4,16.0,2017
+327.0,historia  bellic  noturno  florianopolis,71.99,50.02,16.0,2017
+415.0,jornalismo  diurno  florianopolis,74.72,58.04,21.0,2017
+421.0,letras  alemao  bellic  diurno  florianopolis,61.23,38.02,14.0,2017
+423.0,letras  espanhol  bellic  diurno  florianopolis,58.24,32.45,14.0,2017
+424.0,letras  frances  bellic  diurno  florianopolis,70.27,42.55,14.0,2017
+425.0,letras  ingles  bellic  diurno  florianopolis,64.46,52.39,14.0,2017
+427.0,letras  italiano  bellic  diurno  florianopolis,52.46,29.01,14.0,2017
+441.0,letras  libras  bel  diurno  florianopolis,68.15,30.61,7.0,2017
+440.0,letras  libras  lic  diurno  florianopolis,41.05,23.89,7.0,2017
+428.0,letras  portugues  bellic  diurno  florianopolis,66.74,48.79,28.0,2017
+426.0,letras  portugues  bellic  noturno  florianopolis,62.9,48.16,14.0,2017
+222.0,matematica  bel  diurno  florianopolis,73.01,36.78,14.0,2017
+756.0,matematica  licenciatura  diurno  blumenau,62.83,28.91,17.0,2017
+223.0,matematica  licenciatura  diurno  florianopolis,67.18,21.08,38.0,2017
+751.0,matematica  licenciatura  noturno  blumenau,59.65,26.14,17.0,2017
+103.0,medicina  diurno  florianopolis,89.02,82.21,35.0,2017
+552.0,medicina veterinaria  diurno  curitibanos,68.07,52.3,28.0,2017
+230.0,meteorologia  diurno  florianopolis,56.46,35.01,10.0,2017
+338.0,museologia  bel  diurno  florianopolis,52.66,25.56,10.0,2017
+9.0,nutricao  diurno  florianopolis,68.27,61.49,16.0,2017
+333.0,oceanografia  diurno  florianopolis,65.4,56.7,10.0,2017
+104.0,odontologia  diurno  florianopolis,72.01,63.02,35.0,2017
+308.0,pedagogia  diurno  florianopolis,54.2,39.23,35.0,2017
+319.0,psicologia  bellic  diurno  florianopolis,76.03,63.44,31.0,2017
+3.0,quimica  belbel em quimica tecnologica  florianopolis,85.1,50.45,28.0,2017
+205.0,quimica  licenciatura  diurno  florianopolis,72.57,47.21,14.0,2017
+752.0,quimica  licenciatura  noturno  blumenau,59.95,26.63,35.0,2017
+340.0,relacoes internacionais  diurno  florianopolis,74.98,62.58,28.0,2017
+429.0,secretariado executivo  bel  noturno  florianopolis,60.88,41.41,14.0,2017
+309.0,servico social  diurno  florianopolis,56.66,39.3,28.0,2017
+339.0,servico social  noturno  florianopolis,50.59,41.22,21.0,2017
+238.0,sistemas de informacao  noturno  florianopolis,69.28,58.32,35.0,2017
+652.0,tec da info e comunicacao  noturno  ararangua,64.7,35.59,35.0,2017
+502.0,zootecnia  diurno  florianopolis,53.45,36.3,24.0,2017
+,,,,2279.0,2017
+301.0,administracao  diurno  florianopolis,64.21,46.25,35.0,2018
+316.0,administracao  noturno  florianopolis,76.07,45.65,35.0,2018
+555.0,agronomia  diurno  curitibanos,49.92,23.2,35.0,2018
+501.0,agronomia  diurno  florianopolis,69.12,47.66,38.0,2018
+455.0,animacao  diurnonoturno  florianopolis,70.88,64.15,14.0,2018
+337.0,antropologia  diurno  florianopolis,65.35,48.7,9.0,2018
+207.0,arquitetura e urbanismo  diurno  florianopolis,84.83,68.48,28.0,2018
+335.0,arquivologia  diurno  florianopolis,51.78,28.46,21.0,2018
+451.0,artes cenicas  noturno  florianopolis,79.75,53.54,15.0,2018
+601.0,bacharelado interdiscip em mobilidade  joinville,55.39,32.15,21.0,2018
+324.0,biblioteconomia  noturno  florianopolis,46.92,34.63,21.0,2018
+342.0,ciencia da informacao  diurnonot  florianopolis,61.65,42.71,7.0,2018
+503.0,ciencia e tecnologia de alimentos  florianopolis,57.9,34.89,24.0,2018
+108.0,ciencias biologicas  bellic  diurno  florianopolis,74.63,64.46,28.0,2018
+110.0,ciencias biologicas  lic noturno  florianopolis,75.87,40.22,28.0,2018
+302.0,ciencias contabeis  diurno  florianopolis,70.99,37.18,31.0,2018
+317.0,ciencias contabeis  noturno  florianopolis,58.74,35.8,31.0,2018
+208.0,ciencias da computacao  diurno  florianopolis,82.97,54.87,35.0,2018
+304.0,ciencias economicas  diurno  florianopolis,83.34,52.95,31.0,2018
+318.0,ciencias economicas  noturno  florianopolis,68.97,39.61,31.0,2018
+310.0,ciencias sociais  bellic  diurno  florianopolis,61.01,47.49,15.0,2018
+320.0,ciencias sociais  bellic  noturno  florianopolis,62.3,33.12,17.0,2018
+450.0,cinema  diurno  florianopolis,75.55,65.62,10.0,2018
+454.0,design  diurnonoturno  florianopolis,73.2,60.89,21.0,2018
+452.0,design de produto  diurnonoturno  florianopolis,77.98,54.08,14.0,2018
+303.0,direito  diurno  florianopolis,82.92,73.66,31.0,2018
+5.0,direito  noturno  florianopolis,79.38,68.15,31.0,2018
+444.0,educacao fisica  bel  diurno  florianopolis,64.87,50.79,21.0,2018
+404.0,educacao fisica  lic  diurno  florianopolis,55.77,45.17,21.0,2018
+101.0,enfermagem  diurno  florianopolis,68.3,52.17,26.0,2018
+602.0,engenharia aeroespacial  diurnonoturno  joinville,77.63,68.31,17.0,2018
+603.0,engenharia automotiva  diurnonoturno  joinville,69.33,55.75,17.0,2018
+201.0,engenharia civil  diurno  florianopolis,79.88,66.1,38.0,2018
+215.0,engenharia de alimentos  diurno  florianopolis,70.73,56.71,17.0,2018
+234.0,engenharia de aquicultura  diurno  florianopolis,54.03,31.22,28.0,2018
+655.0,engenharia de computacaodiurnonoturno  ararangua,63.88,45.69,21.0,2018
+754.0,engenharia de controle e automacao  blumenau,67.05,36.62,35.0,2018
+220.0,engenharia de controle e automacao  florianopolis,81.95,62.8,25.0,2018
+653.0,engenharia de energia  diurnonoturno  ararangua,66.68,29.35,28.0,2018
+607.0,engenharia de infraestruturadiurnonot  joinville,67.69,42.39,17.0,2018
+753.0,engenharia de materiais  diurno  blumenau,67.07,35.79,35.0,2018
+233.0,engenharia de materiais  diurno  florianopolis,72.08,61.5,24.0,2018
+212.0,engenharia de producao civil  diurno  florianopolis,72.4,63.69,14.0,2018
+213.0,engenharia de producao eletrica  diurno  florianopolis,72.24,59.18,14.0,2018
+214.0,engenharia de producao mecanica  diurno  florianopolis,79.37,68.65,14.0,2018
+608.0,engenharia de transportes e logistica  joinville,65.94,32.72,17.0,2018
+202.0,engenharia eletrica  diurno  florianopolis,84.9,65.2,35.0,2018
+235.0,engenharia eletronica  diurno  florianopolis,74.82,63.55,21.0,2018
+604.0,engenharia ferroviaria e metroviaria  joinville,53.09,31.7,14.0,2018
+553.0,engenharia florestal  diurno  curitibanos,50.42,28.3,35.0,2018
+203.0,engenharia mecanica  diurno  florianopolis,87.95,72.78,38.0,2018
+605.0,engenharia mecatronica  diurnonoturno  joinville,80.28,65.22,17.0,2018
+606.0,engenharia naval  diurnonoturno  joinville,65.69,54.35,17.0,2018
+216.0,engenharia quimica  diurno  florianopolis,80.99,69.61,17.0,2018
+211.0,engenharia sanitaria e ambientaldiurno  florianopolis,75.95,53.22,31.0,2018
+755.0,engenharia textil  diurno  blumenau,44.73,31.39,35.0,2018
+102.0,farmacia  diurno  florianopolis,75.46,53.79,45.0,2018
+329.0,filosofia  bellic  noturno  florianopolis,64.09,43.83,13.0,2018
+328.0,filosofia  bellic  vespertinonoturno  florianopolis,68.78,31.39,13.0,2018
+2.0,fisica  bel  diurno  florianopolis,77.62,58.1,19.0,2018
+225.0,fisica  lic  noturno  florianopolis,68.89,30.86,26.0,2018
+654.0,fisioterapia  diurno  ararangua,61.73,46.18,21.0,2018
+109.0,fonoaudiologia  diurno  florianopolis,65.47,48.7,14.0,2018
+331.0,geografia  bellic  diurno  florianopolis,63.18,29.89,14.0,2018
+332.0,geografia  bellic  noturno  florianopolis,58.95,43.57,14.0,2018
+336.0,geologia  diurno  florianopolis,66.24,54.0,10.0,2018
+326.0,historia  bellic  diurno  florianopolis,65.53,52.23,16.0,2018
+327.0,historia  bellic  noturno  florianopolis,62.96,48.99,16.0,2018
+415.0,jornalismo  diurno  florianopolis,71.65,56.76,21.0,2018
+421.0,letras  alemao  bellic  diurno  florianopolis,66.42,35.83,14.0,2018
+423.0,letras  espanhol  bellic  diurno  florianopolis,55.99,33.82,14.0,2018
+424.0,letras  frances  bellic  diurno  florianopolis,57.77,36.26,14.0,2018
+425.0,letras  ingles  bellic  diurno  florianopolis,65.75,54.2,14.0,2018
+427.0,letras  italiano  bellic  diurno  florianopolis,60.77,35.7,14.0,2018
+441.0,letras  libras  bel  diurno  florianopolis,36.88,36.88,7.0,2018
+440.0,letras  libras  lic  diurno  florianopolis,41.11,33.18,7.0,2018
+428.0,letras  portugues  bellic  diurno  florianopolis,61.44,36.19,28.0,2018
+426.0,letras  portugues  bellic  noturno  florianopolis,68.34,42.05,14.0,2018
+222.0,matematica  bel  diurno  florianopolis,76.46,36.2,14.0,2018
+756.0,matematica  lic  diurno  blumenau,53.07,35.78,17.0,2018
+223.0,matematica  lic  diurno  florianopolis,62.36,29.17,38.0,2018
+751.0,matematica  lic  noturno  blumenau,58.64,31.09,17.0,2018
+103.0,medicina  diurno  florianopolis,89.64,83.96,35.0,2018
+552.0,medicina veterinaria  diurno  curitibanos,67.26,51.89,28.0,2018
+230.0,meteorologia  diurno  florianopolis,45.13,36.36,10.0,2018
+338.0,museologia  diurno  florianopolis,48.97,29.83,10.0,2018
+9.0,nutricao  diurno  florianopolis,74.43,62.62,16.0,2018
+333.0,oceanografia  diurno  florianopolis,73.29,53.83,10.0,2018
+104.0,odontologia  diurno  florianopolis,79.52,62.59,35.0,2018
+308.0,pedagogia  diurno  florianopolis,58.9,32.57,35.0,2018
+319.0,psicologia  bellic  diurno  florianopolis,76.45,66.93,31.0,2018
+3.0,quimica  belbel em quimica tecnologica  florianopolis,89.16,46.17,28.0,2018
+205.0,quimica  lic  diurno  florianopolis,68.1,35.9,14.0,2018
+752.0,quimica  lic  noturno  blumenau,61.3,29.9,35.0,2018
+340.0,relacoes internacionais  diurno  florianopolis,79.09,66.1,28.0,2018
+429.0,secretariado executivo  noturno  florianopolis,55.2,30.45,14.0,2018
+309.0,servico social  diurno  florianopolis,57.39,31.5,28.0,2018
+339.0,servico social  noturno  florianopolis,60.42,27.87,21.0,2018
+238.0,sistemas de informacao  noturno  florianopolis,66.13,53.56,35.0,2018
+652.0,tec da info e comunicacao  noturno  ararangua,55.5,27.37,21.0,2018
+502.0,zootecnia  diurno  florianopolis,64.97,27.41,24.0,2018
+,,,,2258.0,2018
+301.0,administracao  diurno  florianopolis,67.22,51.89,35.0,2019
+316.0,administracao  noturno  florianopolis,62.23,48.63,35.0,2019
+555.0,agronomia  diurno  curitibanos,61.94,27.05,35.0,2019
+501.0,agronomia  diurno  florianopolis,72.1,45.65,38.0,2019
+455.0,animacao  diurnonoturno  florianopolis,76.09,62.58,14.0,2019
+337.0,antropologia  diurno  florianopolis,61.29,47.43,9.0,2019
+207.0,arquitetura e urbanismo  diurno  florianopolis,80.89,67.27,28.0,2019
+335.0,arquivologia  diurno  florianopolis,49.33,24.04,21.0,2019
+451.0,artes cenicas  noturno  florianopolis,72.59,57.47,15.0,2019
+601.0,bacharelado interdiscip em mobilidade  joinville,56.64,35.2,21.0,2019
+324.0,biblioteconomia  noturno  florianopolis,54.77,31.3,21.0,2019
+342.0,ciencia da informacao  diurnonot  florianopolis,47.7,25.87,7.0,2019
+503.0,ciencia e tecnologia de alimentos  florianopolis,57.05,27.26,24.0,2019
+108.0,ciencias biologicas  bellic  diurno  florianopolis,71.64,56.55,28.0,2019
+110.0,ciencias biologicas  lic  noturno  florianopolis,61.49,44.13,28.0,2019
+302.0,ciencias contabeis  diurno  florianopolis,61.58,41.32,31.0,2019
+317.0,ciencias contabeis  noturno  florianopolis,71.72,44.06,31.0,2019
+208.0,ciencias da computacao  diurno  florianopolis,81.39,59.76,35.0,2019
+304.0,ciencias economicas  diurno  florianopolis,76.97,56.43,31.0,2019
+318.0,ciencias economicas  noturno  florianopolis,66.03,52.31,31.0,2019
+310.0,ciencias sociais  bellic  diurno  florianopolis,65.46,45.22,15.0,2019
+320.0,ciencias sociais  bellic  noturno  florianopolis,61.01,41.51,17.0,2019
+450.0,cinema  diurno  florianopolis,76.29,63.03,10.0,2019
+454.0,design  diurnonoturno  florianopolis,70.51,59.51,21.0,2019
+452.0,design de produto  diurnonoturno  florianopolis,71.7,54.31,14.0,2019
+303.0,direito  diurno  florianopolis,81.94,71.7,31.0,2019
+5.0,direito  noturno  florianopolis,81.78,69.3,31.0,2019
+444.0,educacao fisica  bel  diurno  florianopolis,60.97,49.5,21.0,2019
+404.0,educacao fisica  lic  diurno  florianopolis,56.75,41.47,21.0,2019
+101.0,enfermagem  diurno  florianopolis,65.72,52.68,26.0,2019
+602.0,engenharia aeroespacial  diurnonoturno  joinville,78.5,66.31,17.0,2019
+603.0,engenharia automotiva  diurnonoturno  joinville,74.81,51.31,17.0,2019
+201.0,engenharia civil  diurno  florianopolis,77.44,62.4,38.0,2019
+215.0,engenharia de alimentos  diurno  florianopolis,70.09,50.58,17.0,2019
+234.0,engenharia de aquicultura  diurno  florianopolis,61.02,23.02,28.0,2019
+655.0,engenharia de computacaodiurnonoturno  ararangua,67.34,42.28,21.0,2019
+754.0,engenharia de controle e automacao  blumenau,63.14,32.99,35.0,2019
+220.0,engenharia de controle e automacao  florianopolis,71.94,63.52,25.0,2019
+653.0,engenharia de energia  diurnonoturno  ararangua,68.34,35.33,28.0,2019
+607.0,engenharia de infraestruturadiurnonot  joinville,63.97,29.66,17.0,2019
+753.0,engenharia de materiais  diurno  blumenau,66.49,31.71,35.0,2019
+236.0,engenharia de materiais  diurno  florianopolis,76.71,53.9,24.0,2019
+212.0,engenharia de producao civil  diurno  florianopolis,73.58,57.95,14.0,2019
+213.0,engenharia de producao eletrica  diurno  florianopolis,70.77,55.33,14.0,2019
+214.0,engenharia de producao mecanica  diurno  florianopolis,78.92,66.29,14.0,2019
+608.0,engenharia de transportes e logistica  joinville,72.28,29.45,17.0,2019
+202.0,engenharia eletrica  diurno  florianopolis,83.81,66.85,35.0,2019
+235.0,engenharia eletronica  diurno  florianopolis,76.47,63.31,21.0,2019
+604.0,engenharia ferroviaria e metroviaria  joinville,65.67,33.67,14.0,2019
+553.0,engenharia florestal  diurno  curitibanos,58.62,28.86,35.0,2019
+203.0,engenharia mecanica  diurno  florianopolis,86.64,72.25,38.0,2019
+605.0,engenharia mecatronica  diurnonoturno  joinville,75.35,63.54,17.0,2019
+606.0,engenharia naval  diurnonoturno  joinville,65.45,45.1,17.0,2019
+216.0,engenharia quimica  diurno  florianopolis,84.11,70.23,17.0,2019
+211.0,engenharia sanitaria e ambientaldiurno  florianopolis,73.19,49.82,31.0,2019
+755.0,engenharia textil  diurno  blumenau,46.6,29.75,35.0,2019
+102.0,farmacia  diurno  florianopolis,79.9,51.35,45.0,2019
+323.0,filosofia  bel  noturno  florianopolis,77.18,32.1,14.0,2019
+307.0,filosofia  lic  vespertino  florianopolis,60.93,31.17,14.0,2019
+2.0,fisica  bel  diurno  florianopolis,73.89,48.99,19.0,2019
+225.0,fisica  lic  noturno  florianopolis,67.95,28.67,26.0,2019
+654.0,fisioterapia  diurno  ararangua,62.13,49.18,21.0,2019
+109.0,fonoaudiologia  diurno  florianopolis,60.08,43.32,14.0,2019
+331.0,geografia  bellic  diurno  florianopolis,58.05,42.11,14.0,2019
+332.0,geografia  bellic  noturno  florianopolis,55.01,36.16,14.0,2019
+336.0,geologia  diurno  florianopolis,71.22,53.06,10.0,2019
+326.0,historia  bellic  diurno  florianopolis,66.88,54.05,16.0,2019
+327.0,historia  bellic  noturno  florianopolis,63.5,51.7,16.0,2019
+415.0,jornalismo  diurno  florianopolis,81.68,63.08,21.0,2019
+421.0,letras  alemao  bellic  diurno  florianopolis,60.43,33.93,14.0,2019
+423.0,letras  espanhol  bellic  diurno  florianopolis,56.57,28.3,14.0,2019
+424.0,letras  frances  bellic  diurno  florianopolis,55.59,37.85,14.0,2019
+425.0,letras  ingles  bellic  diurno  florianopolis,69.53,51.24,14.0,2019
+427.0,letras  italiano  bellic  diurno  florianopolis,55.72,29.21,14.0,2019
+441.0,letras  libras  bel  diurno  florianopolis,51.79,33.81,7.0,2019
+440.0,letras  libras  lic  diurno  florianopolis,40.71,24.37,7.0,2019
+428.0,letras  portugues  bellic  diurno  florianopolis,75.5,44.61,28.0,2019
+426.0,letras  portugues  bellic  noturno  florianopolis,56.72,45.46,14.0,2019
+222.0,matematica  bel  diurno  florianopolis,70.09,24.53,14.0,2019
+756.0,matematica  lic  diurno  blumenau,62.87,30.67,17.0,2019
+223.0,matematica  lic  diurno  florianopolis,62.06,25.84,38.0,2019
+751.0,matematica  lic  noturno  blumenau,67.11,27.18,17.0,2019
+103.0,medicina  diurno  florianopolis,89.57,84.67,35.0,2019
+552.0,medicina veterinaria  diurno  curitibanos,68.64,52.59,28.0,2019
+230.0,meteorologia  diurno  florianopolis,55.24,25.18,10.0,2019
+338.0,museologia  diurno  florianopolis,51.83,24.37,10.0,2019
+9.0,nutricao  diurno  florianopolis,75.32,58.79,16.0,2019
+333.0,oceanografia  diurno  florianopolis,64.18,40.51,10.0,2019
+104.0,odontologia  diurno  florianopolis,72.73,60.44,35.0,2019
+308.0,pedagogia  diurno  florianopolis,61.34,19.66,35.0,2019
+319.0,psicologia  bellic  diurno  florianopolis,75.02,67.7,31.0,2019
+3.0,quimica  belbel em quimica tecnologica  florianopolis,65.18,37.67,28.0,2019
+205.0,quimica  lic  diurno  florianopolis,64.4,28.24,14.0,2019
+752.0,quimica  lic  noturno  blumenau,62.7,27.31,35.0,2019
+340.0,relacoes internacionais  diurno  florianopolis,79.14,65.78,28.0,2019
+429.0,secretariado executivo  noturno  florianopolis,56.77,25.25,14.0,2019
+309.0,servico social  diurno  florianopolis,67.33,22.85,28.0,2019
+339.0,servico social  noturno  florianopolis,56.87,36.4,21.0,2019
+238.0,sistemas de informacao  noturno  florianopolis,72.36,54.89,35.0,2019
+652.0,tec da info e comunicacao  noturno  ararangua,55.5,30.07,21.0,2019
+502.0,zootecnia  diurno  florianopolis,50.79,23.53,24.0,2019
+,,,,2260.0,2019
+319.0,psicologia  bellic  diurno  florianopolis,75.02,67.7,31.0,2020
+3.0,quimica  belbel em quimica tecnologica  florianopolis,65.18,37.67,28.0,2020
+205.0,quimica  lic  diurno  florianopolis,64.4,28.24,14.0,2020
+752.0,quimica  lic  noturno  blumenau,62.7,27.31,35.0,2020
+340.0,relacoes internacionais  diurno  florianopolis,79.14,65.78,28.0,2020
+429.0,secretariado executivo  noturno  florianopolis,56.77,25.25,14.0,2020
+309.0,servico social  diurno  florianopolis,67.33,22.85,28.0,2020
+339.0,servico social  noturno  florianopolis,56.87,36.4,21.0,2020
+238.0,sistemas de informacao  noturno  florianopolis,72.36,54.89,35.0,2020
+652.0,tec da info e comunicacao  noturno  ararangua,55.5,30.07,21.0,2020
+502.0,zootecnia  diurno  florianopolis,50.79,23.53,24.0,2020
+,,,,2260.0,2020
+319.0,psicologia  bellic  diurno  florianopolis,75.02,67.7,31.0,2020
+3.0,quimica  belbel em quimica tecnologica  florianopolis,65.18,37.67,28.0,2020
+205.0,quimica  lic  diurno  florianopolis,64.4,28.24,14.0,2020
+752.0,quimica  lic  noturno  blumenau,62.7,27.31,35.0,2020
+340.0,relacoes internacionais  diurno  florianopolis,79.14,65.78,28.0,2020
+429.0,secretariado executivo  noturno  florianopolis,56.77,25.25,14.0,2020
+309.0,servico social  diurno  florianopolis,67.33,22.85,28.0,2020
+339.0,servico social  noturno  florianopolis,56.87,36.4,21.0,2020
+238.0,sistemas de informacao  noturno  florianopolis,72.36,54.89,35.0,2020
+652.0,tec da info e comunicacao  noturno  ararangua,55.5,30.07,21.0,2020
+502.0,zootecnia  diurno  florianopolis,50.79,23.53,24.0,2020
+,,,,2260.0,2020
+319.0,psicologia  bellic  diurno  florianopolis,75.02,67.7,31.0,2020
+3.0,quimica  belbel em quimica tecnologica  florianopolis,65.18,37.67,28.0,2020
+205.0,quimica  lic  diurno  florianopolis,64.4,28.24,14.0,2020
+752.0,quimica  lic  noturno  blumenau,62.7,27.31,35.0,2020
+340.0,relacoes internacionais  diurno  florianopolis,79.14,65.78,28.0,2020
+429.0,secretariado executivo  noturno  florianopolis,56.77,25.25,14.0,2020
+309.0,servico social  diurno  florianopolis,67.33,22.85,28.0,2020
+339.0,servico social  noturno  florianopolis,56.87,36.4,21.0,2020
+238.0,sistemas de informacao  noturno  florianopolis,72.36,54.89,35.0,2020
+652.0,tec da info e comunicacao  noturno  ararangua,55.5,30.07,21.0,2020
+502.0,zootecnia  diurno  florianopolis,50.79,23.53,24.0,2020
+,,,,2260.0,2020
+319.0,psicologia  bellic  diurno  florianopolis,75.02,67.7,31.0,2020
+3.0,quimica  belbel em quimica tecnologica  florianopolis,65.18,37.67,28.0,2020
+205.0,quimica  lic  diurno  florianopolis,64.4,28.24,14.0,2020
+752.0,quimica  lic  noturno  blumenau,62.7,27.31,35.0,2020
+340.0,relacoes internacionais  diurno  florianopolis,79.14,65.78,28.0,2020
+429.0,secretariado executivo  noturno  florianopolis,56.77,25.25,14.0,2020
+309.0,servico social  diurno  florianopolis,67.33,22.85,28.0,2020
+339.0,servico social  noturno  florianopolis,56.87,36.4,21.0,2020
+238.0,sistemas de informacao  noturno  florianopolis,72.36,54.89,35.0,2020
+652.0,tec da info e comunicacao  noturno  ararangua,55.5,30.07,21.0,2020
+502.0,zootecnia  diurno  florianopolis,50.79,23.53,24.0,2020
+,,,,2260.0,2020
+319.0,psicologia  bellic  diurno  florianopolis,75.02,67.7,31.0,2021
+3.0,quimica  belbel em quimica tecnologica  florianopolis,65.18,37.67,28.0,2021
+205.0,quimica  lic  diurno  florianopolis,64.4,28.24,14.0,2021
+752.0,quimica  lic  noturno  blumenau,62.7,27.31,35.0,2021
+340.0,relacoes internacionais  diurno  florianopolis,79.14,65.78,28.0,2021
+429.0,secretariado executivo  noturno  florianopolis,56.77,25.25,14.0,2021
+309.0,servico social  diurno  florianopolis,67.33,22.85,28.0,2021
+339.0,servico social  noturno  florianopolis,56.87,36.4,21.0,2021
+238.0,sistemas de informacao  noturno  florianopolis,72.36,54.89,35.0,2021
+652.0,tec da info e comunicacao  noturno  ararangua,55.5,30.07,21.0,2021
+502.0,zootecnia  diurno  florianopolis,50.79,23.53,24.0,2021
+,,,,2260.0,2021
+319.0,psicologia  bellic  diurno  florianopolis,75.02,67.7,31.0,2021
+3.0,quimica  belbel em quimica tecnologica  florianopolis,65.18,37.67,28.0,2021
+205.0,quimica  lic  diurno  florianopolis,64.4,28.24,14.0,2021
+752.0,quimica  lic  noturno  blumenau,62.7,27.31,35.0,2021
+340.0,relacoes internacionais  diurno  florianopolis,79.14,65.78,28.0,2021
+429.0,secretariado executivo  noturno  florianopolis,56.77,25.25,14.0,2021
+309.0,servico social  diurno  florianopolis,67.33,22.85,28.0,2021
+339.0,servico social  noturno  florianopolis,56.87,36.4,21.0,2021
+238.0,sistemas de informacao  noturno  florianopolis,72.36,54.89,35.0,2021
+652.0,tec da info e comunicacao  noturno  ararangua,55.5,30.07,21.0,2021
+502.0,zootecnia  diurno  florianopolis,50.79,23.53,24.0,2021
+,,,,2260.0,2021
+319.0,psicologia  bellic  diurno  florianopolis,75.02,67.7,31.0,2021
+3.0,quimica  belbel em quimica tecnologica  florianopolis,65.18,37.67,28.0,2021
+205.0,quimica  lic  diurno  florianopolis,64.4,28.24,14.0,2021
+752.0,quimica  lic  noturno  blumenau,62.7,27.31,35.0,2021
+340.0,relacoes internacionais  diurno  florianopolis,79.14,65.78,28.0,2021
+429.0,secretariado executivo  noturno  florianopolis,56.77,25.25,14.0,2021
+309.0,servico social  diurno  florianopolis,67.33,22.85,28.0,2021
+339.0,servico social  noturno  florianopolis,56.87,36.4,21.0,2021
+238.0,sistemas de informacao  noturno  florianopolis,72.36,54.89,35.0,2021
+652.0,tec da info e comunicacao  noturno  ararangua,55.5,30.07,21.0,2021
+502.0,zootecnia  diurno  florianopolis,50.79,23.53,24.0,2021
+,,,,2260.0,2021
+319.0,psicologia  bellic  diurno  florianopolis,75.02,67.7,31.0,2021
+3.0,quimica  belbel em quimica tecnologica  florianopolis,65.18,37.67,28.0,2021
+205.0,quimica  lic  diurno  florianopolis,64.4,28.24,14.0,2021
+752.0,quimica  lic  noturno  blumenau,62.7,27.31,35.0,2021
+340.0,relacoes internacionais  diurno  florianopolis,79.14,65.78,28.0,2021
+429.0,secretariado executivo  noturno  florianopolis,56.77,25.25,14.0,2021
+309.0,servico social  diurno  florianopolis,67.33,22.85,28.0,2021
+339.0,servico social  noturno  florianopolis,56.87,36.4,21.0,2021
+238.0,sistemas de informacao  noturno  florianopolis,72.36,54.89,35.0,2021
+652.0,tec da info e comunicacao  noturno  ararangua,55.5,30.07,21.0,2021
+502.0,zootecnia  diurno  florianopolis,50.79,23.53,24.0,2021
+,,,,2260.0,2021
+319.0,psicologia  bellic  diurno  florianopolis,75.02,67.7,31.0,2022
+3.0,quimica  belbel em quimica tecnologica  florianopolis,65.18,37.67,28.0,2022
+205.0,quimica  lic  diurno  florianopolis,64.4,28.24,14.0,2022
+752.0,quimica  lic  noturno  blumenau,62.7,27.31,35.0,2022
+340.0,relacoes internacionais  diurno  florianopolis,79.14,65.78,28.0,2022
+429.0,secretariado executivo  noturno  florianopolis,56.77,25.25,14.0,2022
+309.0,servico social  diurno  florianopolis,67.33,22.85,28.0,2022
+339.0,servico social  noturno  florianopolis,56.87,36.4,21.0,2022
+238.0,sistemas de informacao  noturno  florianopolis,72.36,54.89,35.0,2022
+652.0,tec da info e comunicacao  noturno  ararangua,55.5,30.07,21.0,2022
+502.0,zootecnia  diurno  florianopolis,50.79,23.53,24.0,2022
+,,,,2260.0,2022
+319.0,psicologia  bellic  diurno  florianopolis,75.02,67.7,31.0,2022
+3.0,quimica  belbel em quimica tecnologica  florianopolis,65.18,37.67,28.0,2022
+205.0,quimica  lic  diurno  florianopolis,64.4,28.24,14.0,2022
+752.0,quimica  lic  noturno  blumenau,62.7,27.31,35.0,2022
+340.0,relacoes internacionais  diurno  florianopolis,79.14,65.78,28.0,2022
+429.0,secretariado executivo  noturno  florianopolis,56.77,25.25,14.0,2022
+309.0,servico social  diurno  florianopolis,67.33,22.85,28.0,2022
+339.0,servico social  noturno  florianopolis,56.87,36.4,21.0,2022
+238.0,sistemas de informacao  noturno  florianopolis,72.36,54.89,35.0,2022
+652.0,tec da info e comunicacao  noturno  ararangua,55.5,30.07,21.0,2022
+502.0,zootecnia  diurno  florianopolis,50.79,23.53,24.0,2022
+,,,,2260.0,2022
+319.0,psicologia  bellic  diurno  florianopolis,75.02,67.7,31.0,2022
+3.0,quimica  belbel em quimica tecnologica  florianopolis,65.18,37.67,28.0,2022
+205.0,quimica  lic  diurno  florianopolis,64.4,28.24,14.0,2022
+752.0,quimica  lic  noturno  blumenau,62.7,27.31,35.0,2022
+340.0,relacoes internacionais  diurno  florianopolis,79.14,65.78,28.0,2022
+429.0,secretariado executivo  noturno  florianopolis,56.77,25.25,14.0,2022
+309.0,servico social  diurno  florianopolis,67.33,22.85,28.0,2022
+339.0,servico social  noturno  florianopolis,56.87,36.4,21.0,2022
+238.0,sistemas de informacao  noturno  florianopolis,72.36,54.89,35.0,2022
+652.0,tec da info e comunicacao  noturno  ararangua,55.5,30.07,21.0,2022
+502.0,zootecnia  diurno  florianopolis,50.79,23.53,24.0,2022
+,,,,2260.0,2022
+319.0,psicologia  bellic  diurno  florianopolis,75.02,67.7,31.0,2022
+3.0,quimica  belbel em quimica tecnologica  florianopolis,65.18,37.67,28.0,2022
+205.0,quimica  lic  diurno  florianopolis,64.4,28.24,14.0,2022
+752.0,quimica  lic  noturno  blumenau,62.7,27.31,35.0,2022
+340.0,relacoes internacionais  diurno  florianopolis,79.14,65.78,28.0,2022
+429.0,secretariado executivo  noturno  florianopolis,56.77,25.25,14.0,2022
+309.0,servico social  diurno  florianopolis,67.33,22.85,28.0,2022
+339.0,servico social  noturno  florianopolis,56.87,36.4,21.0,2022
+238.0,sistemas de informacao  noturno  florianopolis,72.36,54.89,35.0,2022
+652.0,tec da info e comunicacao  noturno  ararangua,55.5,30.07,21.0,2022
+502.0,zootecnia  diurno  florianopolis,50.79,23.53,24.0,2022
+,,,,2260.0,2022
+319.0,psicologia  bellic  diurno  florianopolis,75.02,67.7,31.0,2023
+3.0,quimica  belbel em quimica tecnologica  florianopolis,65.18,37.67,28.0,2023
+205.0,quimica  lic  diurno  florianopolis,64.4,28.24,14.0,2023
+752.0,quimica  lic  noturno  blumenau,62.7,27.31,35.0,2023
+340.0,relacoes internacionais  diurno  florianopolis,79.14,65.78,28.0,2023
+429.0,secretariado executivo  noturno  florianopolis,56.77,25.25,14.0,2023
+309.0,servico social  diurno  florianopolis,67.33,22.85,28.0,2023
+339.0,servico social  noturno  florianopolis,56.87,36.4,21.0,2023
+238.0,sistemas de informacao  noturno  florianopolis,72.36,54.89,35.0,2023
+652.0,tec da info e comunicacao  noturno  ararangua,55.5,30.07,21.0,2023
+502.0,zootecnia  diurno  florianopolis,50.79,23.53,24.0,2023
+,,,,2260.0,2023
+319.0,psicologia  bellic  diurno  florianopolis,75.02,67.7,31.0,2023
+3.0,quimica  belbel em quimica tecnologica  florianopolis,65.18,37.67,28.0,2023
+205.0,quimica  lic  diurno  florianopolis,64.4,28.24,14.0,2023
+752.0,quimica  lic  noturno  blumenau,62.7,27.31,35.0,2023
+340.0,relacoes internacionais  diurno  florianopolis,79.14,65.78,28.0,2023
+429.0,secretariado executivo  noturno  florianopolis,56.77,25.25,14.0,2023
+309.0,servico social  diurno  florianopolis,67.33,22.85,28.0,2023
+339.0,servico social  noturno  florianopolis,56.87,36.4,21.0,2023
+238.0,sistemas de informacao  noturno  florianopolis,72.36,54.89,35.0,2023
+652.0,tec da info e comunicacao  noturno  ararangua,55.5,30.07,21.0,2023
+502.0,zootecnia  diurno  florianopolis,50.79,23.53,24.0,2023
+,,,,2260.0,2023
+319.0,psicologia  bellic  diurno  florianopolis,75.02,67.7,31.0,2023
+3.0,quimica  belbel em quimica tecnologica  florianopolis,65.18,37.67,28.0,2023
+205.0,quimica  lic  diurno  florianopolis,64.4,28.24,14.0,2023
+752.0,quimica  lic  noturno  blumenau,62.7,27.31,35.0,2023
+340.0,relacoes internacionais  diurno  florianopolis,79.14,65.78,28.0,2023
+429.0,secretariado executivo  noturno  florianopolis,56.77,25.25,14.0,2023
+309.0,servico social  diurno  florianopolis,67.33,22.85,28.0,2023
+339.0,servico social  noturno  florianopolis,56.87,36.4,21.0,2023
+238.0,sistemas de informacao  noturno  florianopolis,72.36,54.89,35.0,2023
+652.0,tec da info e comunicacao  noturno  ararangua,55.5,30.07,21.0,2023
+502.0,zootecnia  diurno  florianopolis,50.79,23.53,24.0,2023
+,,,,2260.0,2023
+319.0,psicologia  bellic  diurno  florianopolis,75.02,67.7,31.0,2023
+3.0,quimica  belbel em quimica tecnologica  florianopolis,65.18,37.67,28.0,2023
+205.0,quimica  lic  diurno  florianopolis,64.4,28.24,14.0,2023
+752.0,quimica  lic  noturno  blumenau,62.7,27.31,35.0,2023
+340.0,relacoes internacionais  diurno  florianopolis,79.14,65.78,28.0,2023
+429.0,secretariado executivo  noturno  florianopolis,56.77,25.25,14.0,2023
+309.0,servico social  diurno  florianopolis,67.33,22.85,28.0,2023
+339.0,servico social  noturno  florianopolis,56.87,36.4,21.0,2023
+238.0,sistemas de informacao  noturno  florianopolis,72.36,54.89,35.0,2023
+652.0,tec da info e comunicacao  noturno  ararangua,55.5,30.07,21.0,2023
+502.0,zootecnia  diurno  florianopolis,50.79,23.53,24.0,2023
+,,,,2260.0,2023
+319.0,psicologia  bellic  diurno  florianopolis,75.02,67.7,31.0,2024
+3.0,quimica  belbel em quimica tecnologica  florianopolis,65.18,37.67,28.0,2024
+205.0,quimica  lic  diurno  florianopolis,64.4,28.24,14.0,2024
+752.0,quimica  lic  noturno  blumenau,62.7,27.31,35.0,2024
+340.0,relacoes internacionais  diurno  florianopolis,79.14,65.78,28.0,2024
+429.0,secretariado executivo  noturno  florianopolis,56.77,25.25,14.0,2024
+309.0,servico social  diurno  florianopolis,67.33,22.85,28.0,2024
+339.0,servico social  noturno  florianopolis,56.87,36.4,21.0,2024
+238.0,sistemas de informacao  noturno  florianopolis,72.36,54.89,35.0,2024
+652.0,tec da info e comunicacao  noturno  ararangua,55.5,30.07,21.0,2024
+502.0,zootecnia  diurno  florianopolis,50.79,23.53,24.0,2024
+,,,,2260.0,2024
+319.0,psicologia  bellic  diurno  florianopolis,75.02,67.7,31.0,2024
+3.0,quimica  belbel em quimica tecnologica  florianopolis,65.18,37.67,28.0,2024
+205.0,quimica  lic  diurno  florianopolis,64.4,28.24,14.0,2024
+752.0,quimica  lic  noturno  blumenau,62.7,27.31,35.0,2024
+340.0,relacoes internacionais  diurno  florianopolis,79.14,65.78,28.0,2024
+429.0,secretariado executivo  noturno  florianopolis,56.77,25.25,14.0,2024
+309.0,servico social  diurno  florianopolis,67.33,22.85,28.0,2024
+339.0,servico social  noturno  florianopolis,56.87,36.4,21.0,2024
+238.0,sistemas de informacao  noturno  florianopolis,72.36,54.89,35.0,2024
+652.0,tec da info e comunicacao  noturno  ararangua,55.5,30.07,21.0,2024
+502.0,zootecnia  diurno  florianopolis,50.79,23.53,24.0,2024
+,,,,2260.0,2024
+319.0,psicologia  bellic  diurno  florianopolis,75.02,67.7,31.0,2024
+3.0,quimica  belbel em quimica tecnologica  florianopolis,65.18,37.67,28.0,2024
+205.0,quimica  lic  diurno  florianopolis,64.4,28.24,14.0,2024
+752.0,quimica  lic  noturno  blumenau,62.7,27.31,35.0,2024
+340.0,relacoes internacionais  diurno  florianopolis,79.14,65.78,28.0,2024
+429.0,secretariado executivo  noturno  florianopolis,56.77,25.25,14.0,2024
+309.0,servico social  diurno  florianopolis,67.33,22.85,28.0,2024
+339.0,servico social  noturno  florianopolis,56.87,36.4,21.0,2024
+238.0,sistemas de informacao  noturno  florianopolis,72.36,54.89,35.0,2024
+652.0,tec da info e comunicacao  noturno  ararangua,55.5,30.07,21.0,2024
+502.0,zootecnia  diurno  florianopolis,50.79,23.53,24.0,2024
+,,,,2260.0,2024
+319.0,psicologia  bellic  diurno  florianopolis,75.02,67.7,31.0,2024
+3.0,quimica  belbel em quimica tecnologica  florianopolis,65.18,37.67,28.0,2024
+205.0,quimica  lic  diurno  florianopolis,64.4,28.24,14.0,2024
+752.0,quimica  lic  noturno  blumenau,62.7,27.31,35.0,2024
+340.0,relacoes internacionais  diurno  florianopolis,79.14,65.78,28.0,2024
+429.0,secretariado executivo  noturno  florianopolis,56.77,25.25,14.0,2024
+309.0,servico social  diurno  florianopolis,67.33,22.85,28.0,2024
+339.0,servico social  noturno  florianopolis,56.87,36.4,21.0,2024
+238.0,sistemas de informacao  noturno  florianopolis,72.36,54.89,35.0,2024
+652.0,tec da info e comunicacao  noturno  ararangua,55.5,30.07,21.0,2024
+502.0,zootecnia  diurno  florianopolis,50.79,23.53,24.0,2024
+,,,,2260.0,2024
+319.0,psicologia  bellic  diurno  florianopolis,75.02,67.7,31.0,2025
+3.0,quimica  belbel em quimica tecnologica  florianopolis,65.18,37.67,28.0,2025
+205.0,quimica  lic  diurno  florianopolis,64.4,28.24,14.0,2025
+752.0,quimica  lic  noturno  blumenau,62.7,27.31,35.0,2025
+340.0,relacoes internacionais  diurno  florianopolis,79.14,65.78,28.0,2025
+429.0,secretariado executivo  noturno  florianopolis,56.77,25.25,14.0,2025
+309.0,servico social  diurno  florianopolis,67.33,22.85,28.0,2025
+339.0,servico social  noturno  florianopolis,56.87,36.4,21.0,2025
+238.0,sistemas de informacao  noturno  florianopolis,72.36,54.89,35.0,2025
+652.0,tec da info e comunicacao  noturno  ararangua,55.5,30.07,21.0,2025
+502.0,zootecnia  diurno  florianopolis,50.79,23.53,24.0,2025
+,,,,2260.0,2025
+319.0,psicologia  bellic  diurno  florianopolis,75.02,67.7,31.0,2025
+3.0,quimica  belbel em quimica tecnologica  florianopolis,65.18,37.67,28.0,2025
+205.0,quimica  lic  diurno  florianopolis,64.4,28.24,14.0,2025
+752.0,quimica  lic  noturno  blumenau,62.7,27.31,35.0,2025
+340.0,relacoes internacionais  diurno  florianopolis,79.14,65.78,28.0,2025
+429.0,secretariado executivo  noturno  florianopolis,56.77,25.25,14.0,2025
+309.0,servico social  diurno  florianopolis,67.33,22.85,28.0,2025
+339.0,servico social  noturno  florianopolis,56.87,36.4,21.0,2025
+238.0,sistemas de informacao  noturno  florianopolis,72.36,54.89,35.0,2025
+652.0,tec da info e comunicacao  noturno  ararangua,55.5,30.07,21.0,2025
+502.0,zootecnia  diurno  florianopolis,50.79,23.53,24.0,2025
+,,,,2260.0,2025
+319.0,psicologia  bellic  diurno  florianopolis,75.02,67.7,31.0,2025
+3.0,quimica  belbel em quimica tecnologica  florianopolis,65.18,37.67,28.0,2025
+205.0,quimica  lic  diurno  florianopolis,64.4,28.24,14.0,2025
+752.0,quimica  lic  noturno  blumenau,62.7,27.31,35.0,2025
+340.0,relacoes internacionais  diurno  florianopolis,79.14,65.78,28.0,2025
+429.0,secretariado executivo  noturno  florianopolis,56.77,25.25,14.0,2025
+309.0,servico social  diurno  florianopolis,67.33,22.85,28.0,2025
+339.0,servico social  noturno  florianopolis,56.87,36.4,21.0,2025
+238.0,sistemas de informacao  noturno  florianopolis,72.36,54.89,35.0,2025
+652.0,tec da info e comunicacao  noturno  ararangua,55.5,30.07,21.0,2025
+502.0,zootecnia  diurno  florianopolis,50.79,23.53,24.0,2025
+,,,,2260.0,2025
+319.0,psicologia  bellic  diurno  florianopolis,75.02,67.7,31.0,2025
+3.0,quimica  belbel em quimica tecnologica  florianopolis,65.18,37.67,28.0,2025
+205.0,quimica  lic  diurno  florianopolis,64.4,28.24,14.0,2025
+752.0,quimica  lic  noturno  blumenau,62.7,27.31,35.0,2025
+340.0,relacoes internacionais  diurno  florianopolis,79.14,65.78,28.0,2025
+429.0,secretariado executivo  noturno  florianopolis,56.77,25.25,14.0,2025
+309.0,servico social  diurno  florianopolis,67.33,22.85,28.0,2025
+339.0,servico social  noturno  florianopolis,56.87,36.4,21.0,2025
+238.0,sistemas de informacao  noturno  florianopolis,72.36,54.89,35.0,2025
+652.0,tec da info e comunicacao  noturno  ararangua,55.5,30.07,21.0,2025
+502.0,zootecnia  diurno  florianopolis,50.79,23.53,24.0,2025
+,,,,2260.0,2025
