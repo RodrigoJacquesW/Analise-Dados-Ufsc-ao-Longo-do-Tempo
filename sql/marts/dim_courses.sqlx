@@ -1,0 +1,26 @@
+config {
+  type: "table",
+  schema: "enrich_data",
+  name: "dim_courses",
+  description: "Dimension of courses name"
+}
+
+WITH curso_rankeado AS (
+  SELECT
+    CAST(codigo AS INT64) AS codigo_int,
+    nome_do_curso,
+    COUNT(*) AS ocorrencias,
+    ROW_NUMBER() OVER (
+      PARTITION BY codigo_int
+      ORDER BY COUNT(*) DESC, LENGTH(nome_do_curso) ASC
+    ) AS rank_nome
+  FROM ${ref("cv_clean")}
+  WHERE nome_do_curso IS NOT NULL
+  GROUP BY codigo_int, nome_do_curso
+)
+
+SELECT
+  codigo_int AS codigo,
+  nome_do_curso AS nome_padronizado
+FROM curso_rankeado
+WHERE rank_nome = 1

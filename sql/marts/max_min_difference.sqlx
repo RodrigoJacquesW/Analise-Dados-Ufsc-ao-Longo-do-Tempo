@@ -1,0 +1,15 @@
+config {
+    type: "table",
+    schema: "enrich_data",
+    name: "max_min_difference",
+    description: "This table shows the difference about max and min subscribers in a course"
+}
+
+SELECT 
+codigo,
+MAX(Inscritos) as maxinscritos,
+MIN(Inscritos) as mininscritos,
+MAX(Inscritos) - MIN(Inscritos) as variacao_inscritos
+from ${ref("cv_clean")}
+GROUP BY codigo
+ORDER BY variacao_inscritos DESC 

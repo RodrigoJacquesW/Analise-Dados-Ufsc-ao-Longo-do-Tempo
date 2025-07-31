@@ -1,0 +1,16 @@
+config {
+    type: "table",
+    schema: "clean_data",
+    name: "dg_clean",
+    description: "Cleaning the gross DF table from raw_data_df"
+}
+WITH clean as(
+    SELECT
+    LOWER(REPLACE(REGEXP_REPLACE(`texto`, r"[^\w\s]", ""), " ", "_")) AS texto,
+    `Valor` AS valor,
+    CAST(`Ano` AS INT64) AS ano
+    FROM inbound-rock-464900-v0.raw_data.raw_data_dg
+)
+SELECT 
+CASE WHEN texto = "nmero_de_candidados_inscritos" OR texto ="numero_de_candidados_inscritos" THEN "numero_de_candidatos_inscritos" ELSE texto
+END AS texto,valor, ano FROM clean

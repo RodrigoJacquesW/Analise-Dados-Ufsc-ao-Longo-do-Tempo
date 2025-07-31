@@ -1,0 +1,11 @@
+config {
+    type: "table",
+    schema: "enrich_data",
+    name: "average_courses_cv",
+    description: "This table shows the average of cv"
+}
+select 
+codigo,
+AVG(candidato_vaga) AS avg_candidato_vaga
+from ${ref("cv_clean")} 
+GROUP BY codigo

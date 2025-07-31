@@ -1,0 +1,21 @@
+config {
+  type: "table",
+  schema: "clean_data",
+  name: "cv_clean",
+  description: "Cleaning the gross CV table from raw_data_cv"
+}
+
+WITH clean AS(
+  Select 
+  SAFE_CAST(`Codigo` AS FLOAT64) AS codigo,
+  nome_do_curso,
+  CAST(`total_vagas` AS INT64)  AS total_vagas,
+  CAST(`Inscritos` AS INT64) AS Inscritos,
+  CAST(`CV` AS FLOAT64) AS candidato_vaga,
+  CAST(`Ano` AS INT64) AS ano
+  FROM inbound-rock-464900-v0.raw_data.raw_data_cv 
+)
+SELECT * FROM clean 
+WHERE total_vagas IS NOT NULL
+
+

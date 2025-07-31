@@ -1,0 +1,21 @@
+config {
+    type: "table",
+    schema: "clean_data",
+    name: "nc_clean",
+    description: "Cleaning the gross NC table from raw_data_nc"
+}
+
+WITH clean as(
+SELECT
+    CAST(`Codigo` AS INT64) AS codigo,
+    `Nome do Curso` AS nome_do_curso,
+    SAFE_CAST(`Total de Vagas` AS INT64) AS total_vagas,
+    CAST(`Acertos do Primeiro` AS FLOAT64) AS acertos_primeiro,
+    CAST(`Acertos do Ultimo` AS FLOAT64)  AS acertos_ultimo,
+    `Ano` AS ano
+    FROM inbound-rock-464900-v0.raw_data.raw_data_nc
+    )
+SELECT * FROM clean 
+WHERE total_vagas IS NOT NULL AND nome_do_curso IS NOT NULL
+
+
