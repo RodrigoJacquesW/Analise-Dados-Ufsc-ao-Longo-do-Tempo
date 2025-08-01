@@ -8,10 +8,10 @@ config {
 WITH clean as(
 SELECT
     CAST(`Codigo` AS INT64) AS codigo,
-    `Nome do Curso` AS nome_do_curso,
-    SAFE_CAST(`Total de Vagas` AS INT64) AS total_vagas,
-    CAST(`Acertos do Primeiro` AS FLOAT64) AS acertos_primeiro,
-    CAST(`Acertos do Ultimo` AS FLOAT64)  AS acertos_ultimo,
+    nome_do_curso,
+    SAFE_CAST(`total_de_vagas` AS INT64) AS total_vagas,
+    CAST(`acertos_do_primeiro` AS FLOAT64) AS acertos_primeiro,
+    CAST(`acertos_do_ultimo` AS FLOAT64)  AS acertos_ultimo,
     `Ano` AS ano
     FROM inbound-rock-464900-v0.raw_data.raw_data_nc
     )
