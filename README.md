@@ -20,8 +20,19 @@ Limpeza e modelagem:
   Os dados foram modelados via VSCODE com a ferramenta Dataform Tool. 
 Confesso que nem era necessário a utilização da nuvem e modelagem via dataform tool, daria para fazer uma especie de "Mini Warehouse" local, devido a complexidade do projeto. Inclusive esse metodo teria sido muito mais rapido e eficaz.
 
+*Observação: Todos os dados foram considerados na categoria Ampla Concorrência*
+
 Resultado
-Como esperado, os dados 
+De 2005 para 2025, a UFSC teve uma queda de aproximadamente 41%, número bem expressivo considerando que é um movimento contrário do aumento populacional da cidade por exemplo. 
+Abaixo, um gráfico com o número total de inscritos na amplâ concorrência nesses 20 anos.
+<img width="998" height="292" alt="image" src="https://github.com/user-attachments/assets/0dd28cdc-5661-46b7-9f1f-40eda604e16d" />
+Ano natural, o número da nota de corte e dos candidatos por vaga acomnpanha o os candidatos totais inscritos, como demonstra os gráfico abaixo. 
+Vale ressaltar que o número de candidados por vaga é fortemente influênciado pelo número total de vagas disponibilizadas.
+<img width="986" height="596" alt="image" src="https://github.com/user-attachments/assets/a9fc14f4-6e6b-4ccc-8424-449b10e52f7c" />
+
+
+
+
 
 
 
